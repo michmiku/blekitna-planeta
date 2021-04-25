@@ -1,0 +1,60 @@
+@import 'variables';
+@import 'mixins';
+
+.mainNav {
+  width: 100%;
+  height: $navigationDesktopHeight;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  .logo {
+    @include flexContainterRow; 
+    grid-column: span 2;
+    background-color: $lightBlueColor;
+    color: $mainWhiteFontColor;
+    justify-content: space-around;
+  }
+  .linkContainer {
+    @include flexContainterColumn;
+    grid-column: span 2;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background-color: $darkBlueColor;
+    color: $mainWhiteFontColor;
+    .dropdown {
+      display: inline-block;
+      position: relative;
+      width: 100%;
+      height: $navigationDesktopHeight;
+      a {
+        @include flexContainterColumn;
+        width: 100%;
+        height: 100%;
+      }
+      &:hover > .dropdownContent, &:hover > .asideDropdownContent {
+        display: flex;
+        background-color: $lightBlueColor;
+      }
+    }
+    .dropdownContent {
+      @include flexContainterColumn;
+      display: none;
+      position: absolute;
+      width: 100%;
+    }
+    .aside {
+      left: 100%;
+      top: 0%;
+    }
+    &:hover {
+      background-color: $lightBlueColor;
+      color: $mainWhiteFontColor;
+    }
+  }
+}
+
+.pageHeader {
+  text-align: center;
+  font-size: 40px;
+  color: $titleFontColor;
+}
