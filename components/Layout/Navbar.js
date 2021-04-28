@@ -19,7 +19,8 @@ const Navbar = () => {
     }
 
     useEffect(() => {
-        linksRef.current.style.display = 'none'
+        if (window.innerWidth < 1024)
+            linksRef.current.style.display = 'none'
     }, [router.pathname])
 
     return (

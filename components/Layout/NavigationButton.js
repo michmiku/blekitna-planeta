@@ -16,18 +16,21 @@ const NavigationButton = ({ parentLink, link, content, isAside, dropdowns }) => 
     const dropdownsLink = dropdowns.map((item, index) => <NavigationButton parentLink={fullLink} {...item} key={index} />)
 
     const handleToggleDropdown = e => {
-        if (dropdownContentRef.current.style.display === 'none' || dropdownContentRef.current.style.display === '') {
-            dropdownContentRef.current.style.display = 'flex'
-            setIsToggled(true)
-        } else {
-            dropdownContentRef.current.style.display = 'none'
-            setIsToggled(false)
+        if (window.innerWidth < 1024) {
+            if (dropdownContentRef.current.style.display === 'none' || dropdownContentRef.current.style.display === '') {
+                dropdownContentRef.current.style.display = 'flex'
+                setIsToggled(true)
+            } else {
+                dropdownContentRef.current.style.display = 'none'
+                setIsToggled(false)
+            }
         }
     }
 
     useEffect(() => {
         if (dropdownContentRef.current !== null)
-            dropdownContentRef.current.style.display = 'none'
+            if (window.innerWidth < 1024)
+                dropdownContentRef.current.style.display = 'none'
     }, [router.pathname])
 
     return (
