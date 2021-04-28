@@ -12,43 +12,97 @@
     background-color: $lightBlueColor;
     color: $mainWhiteFontColor;
     justify-content: space-around;
+    .mobileMenuButton {
+      display: none;
+    }
   }
-  .linkContainer {
-    @include flexContainterColumn;
-    grid-column: span 2;
-    width: 100%;
-    height: 100%;
-    cursor: pointer;
-    background-color: $darkBlueColor;
-    color: $mainWhiteFontColor;
-    .dropdown {
-      display: inline-block;
-      position: relative;
+  .allLinks {
+    grid-column: span 10;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    .linkContainer {
+      @include flexContainterColumn;
+      grid-column: span 2;
       width: 100%;
-      height: $navigationDesktopHeight;
-      a {
-        @include flexContainterColumn;
+      height: 100%;
+      cursor: pointer;
+      background-color: $darkBlueColor;
+      color: $mainWhiteFontColor;
+      .dropdown {
+        display: inline-block;
+        position: relative;
         width: 100%;
-        height: 100%;
+        height: $navigationDesktopHeight;
+        a {
+          @include flexContainterColumn;
+          width: 100%;
+          height: 100%;
+          .dropdownIcon {
+            display: none;
+          }
+        }
+        &:hover > .dropdownContent, &:hover > .asideDropdownContent {
+          display: flex;
+          background-color: $lightBlueColor;
+        }
       }
-      &:hover > .dropdownContent, &:hover > .asideDropdownContent {
-        display: flex;
+      .dropdownContent {
+        @include flexContainterColumn;
+        display: none;
+        position: absolute;
+        width: 100%;
+      }
+      .aside {
+        left: 100%;
+        top: 0%;
+      }
+      &:hover {
         background-color: $lightBlueColor;
+        color: $mainWhiteFontColor;
       }
     }
-    .dropdownContent {
+  }
+  @media (max-width: $breakpointTablet) {
+    display: flex;
+    flex-direction: column;
+    height: $navigationMobileHeight;
+    .logo {
+      flex-direction: row-reverse;
+      height: 100%;
+      .mobileMenuButton {
+        display: flex;
+        font-size: 22px;
+      }
+      p {
+        font-size: 18px;
+      }
+    }
+    .allLinks {
       @include flexContainterColumn;
       display: none;
-      position: absolute;
       width: 100%;
-    }
-    .aside {
-      left: 100%;
-      top: 0%;
-    }
-    &:hover {
-      background-color: $lightBlueColor;
-      color: $mainWhiteFontColor;
+      z-index: 2;
+      .linkContainer {
+        .dropdown {
+          height: 100%;
+          a {
+            @include flexContainterRow;
+            height: $navigationMobileHeight;
+            .dropdownIcon {
+              display: block;
+              margin-left: 20px;
+            }
+          }
+          .dropdownContent {
+            display: none;
+            position: relative;
+          }
+          .aside {
+            left: 0%;
+            top: 0%;
+          }
+        }
+      }
     }
   }
 }
