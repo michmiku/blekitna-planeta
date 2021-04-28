@@ -3,11 +3,13 @@ import styles from 'styles/Home.module.scss';
 import NavigationButton from './NavigationButton';
 import { faList } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { useRef } from 'react';
+import { useEffect, useRef } from 'react';
+import { useRouter } from 'next/router';
 
 const Navbar = () => {
 
     const linksRef = useRef(null)
+    const router = useRouter()
 
     const handleToggleMenu = e => {
         if (linksRef.current.style.display === 'none' || linksRef.current.style.display === '')
@@ -15,6 +17,10 @@ const Navbar = () => {
         else
             linksRef.current.style.display = 'none'
     }
+
+    useEffect(() => {
+        linksRef.current.style.display = 'none'
+    }, [router.pathname])
 
     return (
         <nav className={styles.mainNav}>

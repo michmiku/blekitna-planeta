@@ -1,12 +1,14 @@
 import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Link from 'next/link';
-import { useRef, useState } from 'react';
+import { useRouter } from 'next/router';
+import { useEffect, useRef, useState } from 'react';
 import styles from 'styles/Home.module.scss';
 
 const NavigationButton = ({ parentLink, link, content, isAside, dropdowns }) => {
 
     const [isToggled, setIsToggled] = useState(false)
+    const router = useRouter()
 
     const dropdownContentRef = useRef(null)
 
@@ -22,6 +24,11 @@ const NavigationButton = ({ parentLink, link, content, isAside, dropdowns }) => 
             setIsToggled(false)
         }
     }
+
+    useEffect(() => {
+        if (dropdownContentRef.current !== null)
+            dropdownContentRef.current.style.display = 'none'
+    }, [router.pathname])
 
     return (
         dropdowns.length !== 0 ? (
