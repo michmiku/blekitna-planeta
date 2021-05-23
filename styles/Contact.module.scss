@@ -9,7 +9,53 @@
     background-color: $lightBlueColor;
     margin: 0;
     padding: 40px;
-  }
+    @media (max-width: $breakpointPhone) {
+        font-size: 28px;
+        font-weight: lighter;
+    }
+}
+
+.contactInformations {
+    @include flexContainterRow;
+    justify-content: space-around;
+    margin-top: 20px;
+    div {
+        width: 40%;
+        height: 20vh;
+        hr {
+            width: 70%;
+            border: 0;
+            height: 1px;
+            background: $titleFontColor;
+        }
+        h1 {
+            font-size: 32px;
+            font-weight: lighter;
+            font-family: $headerFontFamily;
+            color: $titleFontColor;
+            text-align: center;
+        }
+        p {
+            margin: 10px 0;
+            color: $textFontColor;
+            text-align: center;
+        }
+    }
+    @media (max-width: $breakpointPhone) {
+        @include flexContainterColumn;
+        div {
+            height: 100%;
+        }
+    }
+}
+
+.cityHeader {
+    font-size: 32px;
+    font-weight: lighter;
+    font-family: $headerFontFamily;
+    color: $titleFontColor;
+    text-align: center;
+}
 
 .contactContainer {
     h1 {
@@ -27,7 +73,10 @@
         h1 {
             font-weight: lighter;
             color: $titleFontColor;
-            text-align: center  ;
+            text-align: center;
+            @media (max-width: $breakpointTablet) {
+                display: none;
+            }
         }
         p {
             margin: 10px 0;
@@ -36,7 +85,7 @@
     }
     .contactMap {
         width: 100%;
-        margin: 7%;
+        margin: 4% 7%;
         h1 {
             text-align: center;
             color: $titleFontColor;
@@ -50,5 +99,9 @@
                 border: 0;
             }
         }
+    }
+    @media (max-width: $breakpointTablet) {
+        @include flexContainterColumn;
+        flex-direction: column-reverse;
     }
 }
