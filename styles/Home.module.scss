@@ -7,20 +7,24 @@
   height: $navigationDesktopHeight;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
+
   .logo {
-    @include flexContainterRow; 
+    @include flexContainterRow;
     grid-column: span 2;
     background-color: $lightBlueColor;
     color: $mainWhiteFontColor;
     justify-content: space-around;
+
     .mobileMenuButton {
       display: none;
     }
   }
+
   .allLinks {
     grid-column: span 10;
     display: grid;
     grid-template-columns: repeat(10, 1fr);
+
     .linkContainer {
       @include flexContainterColumn;
       grid-column: span 2;
@@ -29,75 +33,93 @@
       cursor: pointer;
       background-color: $darkBlueColor;
       color: $mainWhiteFontColor;
+
       .dropdown {
         display: inline-block;
         position: relative;
         width: 100%;
         height: $navigationDesktopHeight;
+
         a {
           @include flexContainterColumn;
           width: 100%;
           height: 100%;
+
           .dropdownIcon {
             display: none;
           }
         }
-        &:hover > .dropdownContent, &:hover > .asideDropdownContent {
+
+        &:hover>.dropdownContent,
+        &:hover>.asideDropdownContent {
           display: flex;
           background-color: $lightBlueColor;
         }
       }
+
       .dropdownContent {
         @include flexContainterColumn;
         display: none;
         position: absolute;
         width: 100%;
       }
+
       .aside {
         left: 100%;
         top: 0%;
       }
+
       &:hover {
         background-color: $lightBlueColor;
         color: $mainWhiteFontColor;
       }
     }
   }
+
   @media (max-width: $breakpointTablet) {
     display: flex;
     flex-direction: column;
     height: $navigationMobileHeight;
+
     .logo {
       flex-direction: row-reverse;
       height: 100%;
+
       .mobileMenuButton {
         display: flex;
         font-size: 22px;
       }
+
       p {
         font-size: 18px;
       }
     }
+
     .allLinks {
       @include flexContainterColumn;
       display: none;
       width: 100%;
       z-index: 2;
+
       .linkContainer {
         .dropdown {
           height: 100%;
+
           a {
             @include flexContainterRow;
             height: $navigationMobileHeight;
+
             .dropdownIcon {
               display: block;
               margin-left: 20px;
             }
           }
+
           .dropdownContent {
             display: none;
             position: relative;
           }
+
           .aside {
             left: 0%;
             top: 0%;
@@ -119,6 +141,7 @@
   background-color: $darkBlueColor;
   height: 8vh;
   @include flexContainterColumn;
+
   p {
     color: $backgroundGrayColor;
   }
@@ -132,26 +155,33 @@
   background-size: cover;
   position: relative;
   color: white;
-  .heroText {
-    position: absolute;
-    right: 5%;
-    bottom: 10%;
-    h1 {
-      font-size: 72px;
-      margin: 0
-    }
-    p {
-      font-size: 32px;
-      margin: 0;
+
+  div {
+    .heroText {
+      width: fit-content;
+      margin: auto 0 100px auto;
+
+      h1 {
+        font-size: 72px;
+        margin: 0
+      }
+
+      p {
+        font-size: 32px;
+        margin: 0;
+      }
     }
   }
+
 }
 
 .aboutUs {
   width: 100%;
-  padding: 5% 7%;
   box-sizing: border-box;
+  padding: 100px 0;
+
   h1 {
+    margin-top: 0;
     font-size: 40px;
     text-align: center;
     font-family: $headerFontFamily;
