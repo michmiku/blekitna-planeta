@@ -2,6 +2,7 @@
 @import 'mixins';
 
 .mainNav {
+  font-family: $headerFontFamily;
   width: 100%;
   height: $navigationDesktopHeight;
   display: grid;
@@ -110,5 +111,49 @@
 .pageHeader {
   text-align: center;
   font-size: 40px;
+  font-family: $headerFontFamily;
   color: $titleFontColor;
+}
+
+.mainFooter {
+  background-color: $darkBlueColor;
+  height: 8vh;
+  @include flexContainterColumn;
+  p {
+    color: $backgroundGrayColor;
+  }
+}
+
+.heroImage {
+  width: 100%;
+  height: calc(100vh - #{$navigationDesktopHeight});
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: white;
+  .heroText {
+    position: absolute;
+    right: 5%;
+    bottom: 10%;
+    h1 {
+      font-size: 72px;
+      margin: 0
+    }
+    p {
+      font-size: 32px;
+      margin: 0;
+    }
+  }
+}
+
+.aboutUs {
+  width: 100%;
+  padding: 5% 7%;
+  box-sizing: border-box;
+  h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: $headerFontFamily;
+  }
 }

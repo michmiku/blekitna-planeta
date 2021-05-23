@@ -1,0 +1,54 @@
+@import 'variables';
+@import 'mixins';
+
+.pageHeader {
+    text-align: center;
+    font-size: 40px;
+    font-family: $headerFontFamily;
+    color: white;
+    background-color: $lightBlueColor;
+    margin: 0;
+    padding: 40px;
+  }
+
+.contactContainer {
+    h1 {
+        font-family: $headerFontFamily;
+        width: 100%;
+    }
+    width: 100%;
+    @include flexContainterRow;
+    .informationsPanel {
+        width: 100%;
+        @include flexContainterColumn;
+        hr {
+            width: 70%;
+        }
+        h1 {
+            font-weight: lighter;
+            color: $titleFontColor;
+            text-align: center  ;
+        }
+        p {
+            margin: 10px 0;
+            color: $textFontColor;
+        }
+    }
+    .contactMap {
+        width: 100%;
+        margin: 7%;
+        h1 {
+            text-align: center;
+            color: $titleFontColor;
+        }
+        div {
+            border: 20px solid $titleFontColor;
+            border-width: 20px 0;
+            iframe {
+                width: 100%;
+                height: 40vh;
+                border: 0;
+            }
+        }
+    }
+}

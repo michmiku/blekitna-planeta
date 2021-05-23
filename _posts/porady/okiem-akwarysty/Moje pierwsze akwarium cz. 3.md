@@ -1,0 +1,30 @@
+---
+title: 'Moje pierwsze akwarium cz. 3 - sprzęt techniczny'
+excerpt: 'W przypadku akwariów zakładanych przez pasjonatów wodnego świata naturalne oświetlenie nie zda egzaminu, co więcej może okazać się powodem wzrostu niechcianych glonów, dlatego najlepszym rozwiązaniem jest zastosowanie oświetlenia sztucznego. Ilość punktów świetlnych, ale także ich moc będzie zależeć oczywiście od wielkości akwarium. Na jego parametry wpływ mogą mieć również pory roku, gatunki ryb,oraz roślin które hodujemy.'
+coverImage: '/akcja4.jpg'
+date: '21.05 2021r.'
+---
+
+# Oświetlenie
+
+W przypadku akwariów zakładanych przez pasjonatów wodnego świata naturalne oświetlenie nie zda egzaminu, co więcej może okazać się powodem wzrostu niechcianych glonów, dlatego najlepszym rozwiązaniem jest zastosowanie oświetlenia sztucznego. Ilość punktów świetlnych, ale także ich moc będzie zależeć oczywiście od wielkości akwarium. Na jego parametry wpływ mogą mieć również pory roku, gatunki ryb,oraz roślin które hodujemy. Żle dobrane oświetlenie skutkuje zazwyczaj pojawieniem się różnego rodzaju glonów. Jeżeli w naszym akwarium zauważymy zbyt wiele glonów zielonych – może to wskazywać na zbyt silne oświetlenie. Natomiast, jeżeli będą się rozwijać okrzemki, które tworzą brunatne zabawienie – może się okazać, że światła jest zbyt mało. Glony są zmorą akwarystów,a ich powstawanie tematem dość szerokim dlatego poświęcimy im osobny artykuł. Aby odpowiednio oświetlić akwarium możemy użyć lamp jarzeniowych w których jako substancję świecącą wykorzystano gazy szlachetne. Dzięki specjalnemu ich doborowi nasza lampa pozwala np. na uwydatnienie rybich kolorów, ale także służy bujnemu wzrostowi roślin. Przy dłuższej eksploatacji i generowanych kosztach prądu dobrym rozwiązaniem okazują się coraz modniejsze lampy ledowe. Świecą o wiele jaśniej niż wskazywałby pobór energii elektrycznej stąd sa dość ekonomiczne,a ponadto same w sobie nie wytwarzają zbyt dużo ciepła. Warto wiedzieć, że zależnie od rodzaju zbiornika,oraz charakteru źródła światła belki oświetleniowe umieszczamy w różnej odległości od powierzchni wody, ale zawsze tak aby światło padało z góry.
+
+# Ogrzewanie
+
+Ogrzewanie jest konieczne praktycznie w każdym akwarium. Jeżeli panuje w nim zbyt niska temperatura nasze ryby (z których większość to gatunki tropikalne,żyjące w wyższych temperaturach) nie będą czuły się komfortowo, co więcej mogą nawet zachorować. Optymalną temperaturą dla większości dostępnych gatunków będzie około 22-26 stopni Celsjusza. Dobór grzałki, którą zastosujemy w konkretnym akwarium jest sprawą kluczową. Jej parametry (moc) musi być taka by zapewnić pożądaną temperaturę maksymalnie w przeciągu paru godzin. Dostarczana ilość ciepła musi być na stałym poziomie, pamiętajmy więc,że na wybór odpowiedniego urządzenia wpływ mają zarówno wielkość zbiornika, ale także temperatury otoczenia w jakim przebywa akwarium. Najlepszym rozwiązaniem będzie zakup grzałki z termostatem, która sama dostosowuje temperaturę wody do wybranej przez nas ilości stopni.
+
+# Termometry
+
+Odpowiedni termometr z uchwytem jest koniecznością. Musimy kontrolować temperaturę wody w każdym akwarium. Najlepszym rozwiązaniem będzie kupno szklanego termometru. Dawno już zrezygnowano z trującej rtęci jako substancji wypełniającej wnętrze, zaczęto zaś stosować w tym celu alkohol, który w momencie rozbicia termometru nie stanowi zagrożenia dla zdrowia ryb,ale także i nas samych. Szklane wersje są dość dokładne,a do tego łatwo się je czyści. Poza tym są tanie i dość trwałe,stąd bez problemu posłużą nam przez wiele lat. Osobom, dla których najważniejsza jest precyzja pomiaru polecamy elektroniczny termometr.
+
+# Napowietrzanie
+
+Napowietrzanie akwarium to proces mający w rezultacie zapewnić natlenienie zbiornika,ale także pomóc zapobiec powstawaniu bakteryjnego kożucha na powierzchni wody. W skład instalacji, które napowietrza wodę wchodzą: pompka powietrza, przewody, zaciskacze lub kurki oraz rurki ze szkła, celuloidu lub plastiku, które przebiegają wewnątrz akwarium. Całości instalacji dopełnią elementy rozbijające strumień tłoczonego powietrza na mniejsze bąble. W tym względzie różnorodnośc pomysłów aż zadziwia,jednak najbardziej popularnymi są specjalne kamienie o różnych kształtach lub kurtyny.Jeżeli odpowiednio napowietrzamy wodę w akwarium mamy nawet szansę trzymać więcej ryb. Dzięki temu usuwamy też nadmiar dwutlenku węgla. Podstawę urządzeń napowietrzających we współczesnej akwarytyce stanowią pompki membranowe w których połączona z elektromagnesem membrana wykonuje olbrzymią ilość mikrodrgań tłocząc jednocześnie powietrze do wnętrza zbiornika.
+
+# Filtry
+
+Filtry są potrzebne, także aby napowietrzać, ale przede wszystkim by oczyszczać wodę, bowiem dobry filtr stanowi zalążek i siedlisko przyjaznych środowisku wodnemu bakterii nitryfikacyjnych, które sprzyjają eliminacji nadmiaru związków azotowych brudzących wodę na poziomie chemicznym. Taką charakterystykę posiadają głównie modele kubełkowe,czyli tzw.filtry zewnętrzne gdzie cały proces oczyszczania przebiega poza akwarium w korpusie wypełnionym kilkoma rodzajami mediów filtracyjnych (ceramika,gąbka,fizelina,węgiel aktywny).Taki filtr musimy oczywiście regularnie czyścić pamiętając jednocześnie by zbytnio nie ingerować w powstałe wewnątrz kultury bakterii,których zniszczenie spowoduje utratę biologicznej równowagi zbiornika,a co za tym idzie spowoduje np. powstawanie glonów. Model dopasowujemy  do wielkości akwarium i ilości ryb. Pamiętajmy, aby wybrać taki, który pracuje cicho, aby móc komfortowo odpoczywać w jego pobliżu. Spośród pozostałych rodzajów możemy wymienić filtry podżwirowe, wewnętrzne i kaskadowe,które w większości oparte jedynie o gąbkę (jako element czyszczący) nie są specjalnie efektywne wychwytując z wody jedynie większe zanieczyszczenia.
+
+# Przyrządy pomocnicze
+
+Automatyczne karmidło dla ryb jest wygodnym, nowoczesnym urządzeniem stosowanym w akwarystyce. Dzięki niemu można dozować zarówno pokarm w płatkach, jak i ten granulowany. Możemy ustawić karmienie raz,dwa lub kilka razy na dobę. Najczęściej używa się go podczas dłuższych wyjazdów. Jest zasilany za pomocą baterii.

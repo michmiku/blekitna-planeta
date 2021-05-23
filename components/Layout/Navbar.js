@@ -59,12 +59,6 @@ const Navbar = () => {
                     isAside={false}
                     dropdowns={[
                         {
-                            link: 'kacik-gromerski',
-                            content: 'Kącik gromerski',
-                            isAside: true,
-                            dropdowns: []
-                        },
-                        {
                             link: 'okiem-akwarysty',
                             content: 'Okiem akwarysty',
                             isAside: true,
@@ -104,54 +98,22 @@ const Navbar = () => {
                     isAside={false}
                     dropdowns={[
                         {
-                            link: 'akwaria-morskie',
-                            content: 'Akwaria morskie',
+                            link: 'rybuoku',
+                            content: 'Realizacja w stylu Rybuoku',
                             isAside: true,
                             dropdowns: []
                         },
                         {
-                            link: 'akwaria-slodkowodne',
-                            content: 'Akwaria słodkowodne',
+                            link: 'slodkowodne',
+                            content: 'Nasze akwaria słodkowodne',
                             isAside: true,
-                            dropdowns: [
-                                {
-                                    link: 'rybuoku',
-                                    content: 'Realizacja w stylu Rybuoku',
-                                    isAside: true,
-                                    dropdowns: []
-                                },
-                                {
-                                    link: 'slodkowodne',
-                                    content: 'Nasze akwaria słodkowodne',
-                                    isAside: true,
-                                    dropdowns: []
-                                },
-                            ]
+                            dropdowns: []
                         },
                         {
                             link: 'terraria',
                             content: 'Terraria',
                             isAside: true,
-                            dropdowns: [
-                                {
-                                    link: 'rozne',
-                                    content: 'Różne gatunki',
-                                    isAside: true,
-                                    dropdowns: []
-                                },
-                                {
-                                    link: 'tropikalne',
-                                    content: 'Terraria tropikalne',
-                                    isAside: true,
-                                    dropdowns: []
-                                },
-                                {
-                                    link: 'pustynne',
-                                    content: 'Terraria pustynne',
-                                    isAside: true,
-                                    dropdowns: []
-                                },
-                            ]
+                            dropdowns: []
                         },
                     ]}
                 />

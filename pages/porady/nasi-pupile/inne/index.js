@@ -1,11 +1,15 @@
 import ArticleList from 'components/Articles/ArticleList';
 import { getAllPosts } from 'lib/api'
+import styles from 'styles/Home.module.scss'
 
 const path = 'porady/nasi-pupile/inne'
 
 const Home = ({ allPosts, path }) => {
     return (
-        <ArticleList posts={allPosts} path={path} />
+        <>
+            <h1 className={styles.pageHeader}>Inne</h1>
+            <ArticleList posts={allPosts} path={path} />
+        </>
     );
 };
 

@@ -1,7 +1,10 @@
+import ContactContainer from 'components/Contact/ContactContainer'
+import styles from 'styles/Home.module.scss'
+
 const kontakt = () => {
     return (
-        <div>
-            <h1>Kontakt</h1>
+        <div className={styles.contact}>
+            <ContactContainer />
         </div>
     );
 };

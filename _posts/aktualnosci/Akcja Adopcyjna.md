@@ -1,6 +1,6 @@
 ---
 title: 'Akcja adopcyjna "przygarnij kociaka"'
-excerpt: 'W dniu 23.11. przy aktywnej pomocy zaprzyjaźnionego Towarzystwa Dog Rescue z Lednicy, odbyła się na terenie naszego sklepu pierwsza ( z pewnością nie ostatnia) akcja adopcyjna, której głównym założeniem było odnalezienie nowego domu dla bezdomnych kilkumiesięcznych kociąt.'
+excerpt: 'W dniu 23.11. przy aktywnej pomocy zaprzyjaźnionego Towarzystwa Dog Rescue z Lednicy, odbyła się na terenie naszego sklepu pierwsza (z pewnością nie ostatnia) akcja adopcyjna, której głównym założeniem było odnalezienie nowego domu dla bezdomnych kilkumiesięcznych kociąt.'
 coverImage: '/akcja4.jpg'
 date: '25.04 2021r.'
 ---
@@ -19,8 +19,8 @@ Z nowym rokiem planujemy kolejne podobne imprezy o których odpowiednio wcześni
 
 Zapraszamy do obejrzenia zdjęciowej dokumentacji z tego dnia.
 
-![akcja-adopcyjn](/akcja1.jpg)
-![akcja-adopcyjn](/akcja2.jpg)
-![akcja-adopcyjn](/akcja3.jpg)
-![akcja-adopcyjn](/akcja4.jpg)
-![akcja-adopcyjn](/akcja5.jpg)
+![akcja-adopcyjna](/akcja1.jpg)
+![akcja-adopcyjna](/akcja2.jpg)
+![akcja-adopcyjna](/akcja3.jpg)
+![akcja-adopcyjna](/akcja4.jpg)
+![akcja-adopcyjna](/akcja5.jpg)

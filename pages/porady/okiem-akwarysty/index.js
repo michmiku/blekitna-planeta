@@ -1,11 +1,15 @@
-import ArticleList from '../../../components/Articles/ArticleList';
-import { getAllPosts } from '../../../lib/api'
+import ArticleList from 'components/Articles/ArticleList';
+import { getAllPosts } from 'lib/api'
+import styles from 'styles/Home.module.scss'
 
 const path = 'porady/okiem-akwarysty'
 
 const Home = ({ allPosts, path }) => {
     return (
-        <ArticleList posts={allPosts} path={path} />
+        <>
+            <h1 className={styles.pageHeader}>Okiem akwarysty</h1>
+            <ArticleList posts={allPosts} path={path} />
+        </>
     );
 };
 
