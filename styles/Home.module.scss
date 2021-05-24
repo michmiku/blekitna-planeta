@@ -5,33 +5,51 @@
   font-family: $headerFontFamily;
   width: 100%;
   height: $navigationDesktopHeight;
-  display: grid;
+  display: flex;
   grid-template-columns: repeat(12, 1fr);
+  background-color: $darkBlueColor;
 
   .logo {
     @include flexContainterRow;
     grid-column: span 2;
-    background-color: $lightBlueColor;
+    background-color: white;
     color: $mainWhiteFontColor;
     justify-content: space-around;
+    height: $navigationDesktopHeight;
+    width: fit-content;
+    padding: 0 20px;
+
+    img {
+      max-height: 48px;
+      height: 100%;
+      width: auto;
+      margin-right: auto;
+      margin-left: -30px;
+    }
 
     .mobileMenuButton {
       display: none;
+
+      svg {
+        color: black
+      }
     }
   }
 
   .allLinks {
-    grid-column: span 10;
-    display: grid;
-    grid-template-columns: repeat(10, 1fr);
+    z-index: 2;
+    display: flex;
+    max-width: 1200px;
+    width: 100%;
+    margin-right: auto;
+    background-color: $darkBlueColor;
 
     .linkContainer {
       @include flexContainterColumn;
       grid-column: span 2;
-      width: 100%;
+      width: 180px;
       height: 100%;
       cursor: pointer;
-      background-color: $darkBlueColor;
       color: $mainWhiteFontColor;
 
       .dropdown {
@@ -62,6 +80,12 @@
         display: none;
         position: absolute;
         width: 100%;
+
+        div {
+          &:hover {
+            background-color: $lightBlueColor2;
+          }
+        }
       }
 
       .aside {
@@ -84,6 +108,7 @@
     .logo {
       flex-direction: row-reverse;
       height: 100%;
+      width: 100%;
 
       .mobileMenuButton {
         display: flex;
@@ -102,6 +127,8 @@
       z-index: 2;
 
       .linkContainer {
+        width: 100%;
+
         .dropdown {
           height: 100%;
 
@@ -140,6 +167,7 @@
 .mainFooter {
   background-color: $darkBlueColor;
   height: 8vh;
+  margin-top: auto;
   @include flexContainterColumn;
 
   p {
