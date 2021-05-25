@@ -6,48 +6,67 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     margin-top: 32px;
-    margin-bottom: 32px;
+    margin-bottom: 92px;
     row-gap: 32px;
+
     .articleCard {
         @include flexContainterColumn;
         padding: 14px;
         box-sizing: border-box;
-        border-radius: 5px;
+        border-radius: 10px;
         justify-content: flex-start;
-        width: 75%;
+        width: 90%;
         place-self: center;
         grid-column: span 1;
         background-color: $mainWhieColor;
-        box-shadow: 0 1px 2px 0 rgb(50 50 50 / 40%);
+        box-shadow: 0px 0px 22px 1px rgba(0, 0, 0, 0.2);
+        height: 500px;
+        position: relative;
+
         .coverImage {
             display: flex;
             width: 100%;
-            height: 284px;
+            height: 200px;
+
             img {
                 width: 100%;
                 object-fit: cover;
                 border-radius: 2px;
             }
         }
+
         .articleTitle {
-            font-size: 14px;
+
             width: 100%;
             color: $titleFontColor;
+            padding: 0 8px;
+
             h1 {
-                margin: 6px 0;
-                height: 2.6em;
+                width: fit-content;
+                margin: 10px auto 10px 0;
+                height: 64px;
                 display: flex;
                 justify-content: center;
                 align-items: center;
+                font-size: 1.5rem;
+                text-overflow: ellipsis;
+                overflow: hidden;
+                display: -webkit-box;
+                -webkit-line-clamp: 6;
+                -webkit-box-orient: vertical;
             }
         }
+
         .articleExcerpt {
             font-size: 14px;
             color: $textFontColor;
             box-sizing: border-box;
-            padding: 8px;
+            padding: 0 8px;
             text-align: justify;
             width: 100%;
+            height: 100%;
+
+
             p {
                 margin: 2px 0;
                 text-overflow: ellipsis;
@@ -56,31 +75,45 @@
                 -webkit-line-clamp: 6;
                 -webkit-box-orient: vertical;
                 line-height: 1.4em;
-                height: 8.4em;
+                word-wrap: break-word;
             }
         }
+
         .articleBottom {
             @include flexContainterRow;
             width: 100%;
             justify-content: space-around;
-            margin-top: 8px;
+            margin-top: auto;
+
             p {
                 font-size: 14px;
                 color: $textFontColor;
             }
+
             .goToArticleButton {
                 background-color: $darkBlueColor;
                 color: $mainWhieColor;
                 box-sizing: border-box;
-                padding: 12px 20px;
-                border-radius: 12px;
+                padding: 10px 20px;
+                border-radius: 10px;
+                line-height: 100%;
+
                 &:hover {
                     background-color: $lightBlueColor;
                 }
             }
         }
+
         @media (max-width: $breakpointTablet) {
             grid-column: span 2;
+            height: 440px;
+            width: 100%;
+
+            .articleExcerpt {
+                overflow: hidden;
+                height: 100%;
+                max-height: 80px
+            }
         }
     }
 }
@@ -88,33 +121,64 @@
 .article {
     @include flexContainterColumn;
     width: 100%;
+
     .coverImage {
         display: flex;
         width: 100%;
         height: 420px;
         margin-top: 0vh;
+
         img {
             width: 100%;
             object-fit: cover;
         }
     }
+
     .title {
         width: 80%;
+
         h1 {
             font-size: 36px;
             text-align: center;
         }
     }
+
     .articleContent {
         width: 80%;
+
         h1 {
             font-size: 24px;
+            margin: 40px 0 20px 0;
+            width: fit-content;
         }
+
         p {
             text-align: justify;
+            display: flex;
+            flex-direction: column;
         }
+
         img {
+            margin: 10px auto;
             width: 500px;
         }
+
+        ol {
+            width: fit-content;
+            margin: 5px auto 0 auto;
+        }
     }
+
+    @media (max-width: $breakpointTablet) {
+        .articleContent {
+            width: 100%;
+        }
+
+        .title {
+            width: 100%
+        }
+
+    }
+
+
 }
