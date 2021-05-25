@@ -5,6 +5,7 @@ import { faList } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { useEffect, useRef } from 'react';
 import { useRouter } from 'next/router';
+import Link from 'next/link';
 
 const Navbar = () => {
 
@@ -31,7 +32,9 @@ const Navbar = () => {
                 </div>
                 <p>Błękitna Planeta</p>
                 <a className={styles.logo}>
-                    <Image src='/logo.png' alt='logo' width='40' height='40' />
+                    <Link href='/'>
+                        <Image src='/logo.png' alt='logo' width='40' height='40' />
+                    </Link>
                 </a>
             </div>
             <div
