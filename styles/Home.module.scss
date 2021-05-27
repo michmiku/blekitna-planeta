@@ -5,26 +5,24 @@
   font-family: $headerFontFamily;
   width: 100%;
   height: $navigationDesktopHeight;
-  display: flex;
+  display: grid;
   grid-template-columns: repeat(12, 1fr);
   background-color: $darkBlueColor;
 
   .logo {
     @include flexContainterRow;
     grid-column: span 2;
-    background-color: white;
+    background-color: #e8eaf6;
     color: $mainWhiteFontColor;
-    justify-content: space-around;
     height: $navigationDesktopHeight;
-    width: fit-content;
     padding: 0 20px;
+    width: 100%;
+    cursor: pointer;
 
     img {
       max-height: 48px;
       height: 100%;
-      width: auto;
-      margin-right: auto;
-      margin-left: -30px;
+      width: 100%;
     }
 
     .mobileMenuButton {
@@ -39,15 +37,14 @@
   .allLinks {
     z-index: 2;
     display: flex;
-    max-width: 1200px;
+    grid-column: span 10;
     width: 100%;
-    margin-right: auto;
     background-color: $darkBlueColor;
 
     .linkContainer {
       @include flexContainterColumn;
       grid-column: span 2;
-      width: 180px;
+      width: 100%;
       height: 100%;
       cursor: pointer;
       color: $mainWhiteFontColor;
@@ -65,6 +62,9 @@
 
           .dropdownIcon {
             display: none;
+            @media(max-width: $breakpointTablet) {
+              width: 20px;
+            }
           }
         }
 
@@ -103,16 +103,19 @@
   @media (max-width: $breakpointTablet) {
     display: flex;
     flex-direction: column;
-    height: $navigationMobileHeight;
 
     .logo {
       flex-direction: row-reverse;
-      height: 100%;
+      height: $navigationMobileHeight;
+      justify-content: space-around;
       width: 100%;
 
       .mobileMenuButton {
         display: flex;
         font-size: 22px;
+        width: 22px;
+        color:#212121;
+        justify-self: flex-end;
       }
 
       p {
@@ -125,6 +128,8 @@
       display: none;
       width: 100%;
       z-index: 2;
+      position: absolute;
+      top: $navigationDesktopHeight;
 
       .linkContainer {
         width: 100%;
@@ -165,13 +170,58 @@
 }
 
 .mainFooter {
+  background-color: $lightBlueColor;
+  color: $backgroundGrayColor;
+  @include flexContainterColumn;
+  .footerLogo {
+    padding: 20px 0;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    background-color: $backgroundGrayColor;
+  }
+  .footerContent {
+    padding: 20px 0;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    div {
+      grid-column: span 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: $backgroundGrayColor;
+      font-size: 14px;
+    }
+    .socialMedia {
+      flex-direction: row;
+      .socialMediaIcon {
+        width: 32px;
+        margin: 10px;
+        cursor: pointer;
+        color: #e3f2fd;
+        &:hover {
+          color: #212121;
+        }
+      }
+    }
+    @media (max-width: $breakpointPhone) {
+      @include flexContainterColumn;
+    }
+  }
+}
+
+.asideFooter {
   background-color: $darkBlueColor;
-  height: 8vh;
+  height: 6vh;
   margin-top: auto;
   @include flexContainterColumn;
 
   p {
     color: $backgroundGrayColor;
+    font-size: 12px;
   }
 }
 
@@ -183,7 +233,9 @@
   background-size: cover;
   position: relative;
   color: white;
-
+  text-shadow: 0px 15px 5px rgba(0,0,0,0.1),
+                 10px 20px 5px rgba(0,0,0,0.05),
+                 -10px 20px 5px rgba(0,0,0,0.05);
   div {
     .heroText {
       width: fit-content;
@@ -197,10 +249,46 @@
       p {
         font-size: 32px;
         margin: 0;
+        text-align: right;
       }
     }
   }
 
+  @media (max-width: $breakpointTablet) {
+    div {
+      right: 4%;
+      bottom: -2%;
+      .heroText {
+        h1 {
+          font-size: 54px;
+        }
+        p {
+          font-size: 28px;
+        }
+      }
+    }
+  }
+
+  @media (max-width: $breakpointTablet) {
+    div {
+      right: 3%;
+      bottom: -4%;
+      .heroText {
+        h1 {
+          font-size: 32px;
+        }
+        p {
+          font-size: 20px;
+        }
+      }
+    }
+  }
+
+}
+
+.mainCarousel {
+  width: 100%;
+  height: 400px;  
 }
 
 .aboutUs {

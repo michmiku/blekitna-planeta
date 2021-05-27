@@ -17,7 +17,7 @@ export default function Post({ post, morePosts, preview }) {
 export async function getStaticProps({ params }) {
   const post = getPostBySlug(
     "rybuoku",
-    ["title", "date", "slug", "author", "content", "ogImage", "coverImage"],
+    ["title", "date", "slug", "author", "content", "ogImage", "coverImage", 'excerpt'],
     path
   );
 

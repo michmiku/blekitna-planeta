@@ -1,5 +1,10 @@
 import React, { useState } from 'react';
 import Carousel from 'react-bootstrap/Carousel'
+import style from "styles/Home.module.scss";
+
+const slideOneSrc = '/pustynne1.jpg'
+const slideTwoSrc = '/pustynne2.jpg'
+const slideThreeSrc = '/pustynne3.jpg'
 
 const ControledCarousel = () => {
     const [index, setIndex] = useState(0);
@@ -12,8 +17,8 @@ const ControledCarousel = () => {
         <Carousel activeIndex={index} onSelect={handleSelect}>
             <Carousel.Item>
                 <img
-                    className="d-block w-100"
-                    src="holder.js/800x400?text=First slide&bg=373940"
+                    className={style.carouselItem}
+                    src={slideOneSrc}
                     alt="First slide"
                 />
                 <Carousel.Caption>
@@ -23,8 +28,8 @@ const ControledCarousel = () => {
             </Carousel.Item>
             <Carousel.Item>
                 <img
-                    className="d-block w-100"
-                    src="holder.js/800x400?text=Second slide&bg=282c34"
+                    className={style.carouselItem}
+                    src={slideTwoSrc}
                     alt="Second slide"
                 />
 
@@ -35,8 +40,8 @@ const ControledCarousel = () => {
             </Carousel.Item>
             <Carousel.Item>
                 <img
-                    className="d-block w-100"
-                    src="holder.js/800x400?text=Third slide&bg=20232a"
+                    className={style.carouselItem}
+                    src={slideThreeSrc}
                     alt="Third slide"
                 />
 
@@ -44,7 +49,7 @@ const ControledCarousel = () => {
                     <h3>Third slide label</h3>
                     <p>
                         Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-          </p>
+                     </p>
                 </Carousel.Caption>
             </Carousel.Item>
         </Carousel>

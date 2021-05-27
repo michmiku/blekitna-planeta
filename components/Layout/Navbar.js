@@ -35,12 +35,9 @@ const Navbar = () => {
         <div className={styles.mobileMenuButton} onClick={handleToggleMenu}>
           <FontAwesomeIcon className={styles.dropdownIcon} icon={faList} />
         </div>
-        <p>Błękitna Planeta</p>
-        <a className={styles.logo}>
-          <Link href='/'>
-            <Image src='/logo.png' alt='logo' width='40' height='40' />
-          </Link>
-        </a>
+        <Link href='/'>
+          <Image src='/logo.png' alt='logo' width='auto' height='40' />
+        </Link>
       </div>
       <div
         className={styles.allLinks}

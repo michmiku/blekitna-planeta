@@ -7,6 +7,8 @@ module.exports = {
             config.node = {
                 fs: 'empty'
             }
+        } else {
+            require('./scripts/generate-sitemap');
         }
         return config
     },
