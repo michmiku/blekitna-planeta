@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import Carousel from 'react-bootstrap/Carousel'
 import style from "styles/Home.module.scss";
 
-const slideOneSrc = '/pustynne1.jpg'
-const slideTwoSrc = '/pustynne2.jpg'
-const slideThreeSrc = '/pustynne3.jpg'
+const slideOneSrc = '/MZ_005.jpg'
+const slideTwoSrc = '/MZ_013.jpg'
+const slideThreeSrc = '/MZ_022.jpg'
 
 const ControledCarousel = () => {
     const [index, setIndex] = useState(0);
@@ -49,7 +49,7 @@ const ControledCarousel = () => {
                     <h3>Third slide label</h3>
                     <p>
                         Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-                     </p>
+                    </p>
                 </Carousel.Caption>
             </Carousel.Item>
         </Carousel>

@@ -1,7 +1,7 @@
 import React from "react";
 import style from "styles/Home.module.scss";
 
-const heroSrc = 'url("rybuoko3.jpg")';
+const heroSrc = 'url("MZ_002.jpg")';
 
 const HeroImage = () => {
   return (
