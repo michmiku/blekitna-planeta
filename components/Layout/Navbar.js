@@ -36,7 +36,7 @@ const Navbar = () => {
           <FontAwesomeIcon className={styles.dropdownIcon} icon={faList} />
         </div>
         <Link href='/'>
-          <Image src='/logo.png' alt='logo' width='auto' height='40' />
+          <img src='logo.png' alt='logo' />
         </Link>
       </div>
       <div
