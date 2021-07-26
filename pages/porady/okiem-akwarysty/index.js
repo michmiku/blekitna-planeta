@@ -6,7 +6,7 @@ const path = "porady/okiem-akwarysty";
 
 const Home = ({ allPosts, path }) => {
   return (
-    <div className="content-container">
+    <div className="content-container margin-top">
       <h1 className={styles.pageHeader}>Okiem akwarysty</h1>
       <ArticleList posts={allPosts} path={path} />
     </div>

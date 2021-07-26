@@ -1,252 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3000</loc>
+    <loc>undefined</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/kontakt</loc>
+    <loc>undefined/kontakt</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/sitemap.xml</loc>
+    <loc>undefined/aktualnosci</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/aktualnosci</loc>
+    <loc>undefined/aktualnosci/Akcja Adopcyjna</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/aktualnosci/Akcja Adopcyjna</loc>
+    <loc>undefined/aktualnosci/Ewolucja Akwarium</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/aktualnosci/Ewolucja Akwarium</loc>
+    <loc>undefined/aktualnosci/IAPLC</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/aktualnosci/IAPLC</loc>
+    <loc>undefined/aktualnosci/wywiad z Marcinem Zającem</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/aktualnosci/wywiad z Marcinem Zającem</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/nasze-realizacje/rybuoku</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/nasze-realizacje/slodkowodne</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/nasze-realizacje/terraria</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/nasze-realizacje/terraria/agama</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/nasze-realizacje/terraria/kameleon</loc>
+    <loc>undefined/porady/okiem-akwarysty</loc>
   </url>
 
   <url>
     <loc
-      >http://localhost:3000/nasze-realizacje/terraria/terraria tropikalne</loc
+      >undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 1 wstęp</loc
     >
   </url>
 
   <url>
     <loc
-      >http://localhost:3000/nasze-realizacje/terraria/terrarium pustynne</loc
+      >undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 2 woda</loc
     >
   </url>
 
   <url>
-    <loc>http://localhost:3000/nasze-realizacje/terraria/zolwie ladowe</loc>
+    <loc>undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 3</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/okiem-akwarysty</loc>
+    <loc>undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 4</loc>
   </url>
 
   <url>
-    <loc
-      >http://localhost:3000/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 1
-      wstęp</loc
-    >
+    <loc>undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 5</loc>
   </url>
 
   <url>
-    <loc
-      >http://localhost:3000/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 2
-      woda</loc
-    >
+    <loc>undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 6</loc>
   </url>
 
   <url>
-    <loc
-      >http://localhost:3000/porady/okiem-akwarysty/Moje pierwsze akwarium cz.
-      3</loc
-    >
+    <loc>undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 7</loc>
   </url>
 
   <url>
-    <loc
-      >http://localhost:3000/porady/okiem-akwarysty/Moje pierwsze akwarium cz.
-      4</loc
-    >
+    <loc>undefined/nasze-realizacje/rybuoku</loc>
   </url>
 
   <url>
-    <loc
-      >http://localhost:3000/porady/okiem-akwarysty/Moje pierwsze akwarium cz.
-      5</loc
-    >
+    <loc>undefined/nasze-realizacje/slodkowodne</loc>
   </url>
 
   <url>
-    <loc
-      >http://localhost:3000/porady/okiem-akwarysty/Moje pierwsze akwarium cz.
-      6</loc
-    >
+    <loc>undefined/nasze-realizacje/terraria</loc>
   </url>
 
   <url>
-    <loc
-      >http://localhost:3000/porady/okiem-akwarysty/Moje pierwsze akwarium cz.
-      7</loc
-    >
+    <loc>undefined/nasze-realizacje/terraria/agama</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/inne</loc>
+    <loc>undefined/nasze-realizacje/terraria/kameleon</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/inne/chomik</loc>
+    <loc>undefined/nasze-realizacje/terraria/terraria tropikalne</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/inne/fretka</loc>
+    <loc>undefined/nasze-realizacje/terraria/terrarium pustynne</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/inne/kanarek</loc>
+    <loc>undefined/nasze-realizacje/terraria/zolwie ladowe</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/inne/koszatniczka</loc>
+    <loc>undefined/porady/nasi-pupile/inne</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/inne/swinka morska</loc>
+    <loc>undefined/porady/nasi-pupile/inne/chomik</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot</loc>
+    <loc>undefined/porady/nasi-pupile/inne/fretka</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/bedziemy-miec-kota</loc>
+    <loc>undefined/porady/nasi-pupile/inne/kanarek</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/cos o kocie</loc>
+    <loc>undefined/porady/nasi-pupile/inne/koszatniczka</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/drapaki</loc>
+    <loc>undefined/porady/nasi-pupile/inne/swinka morska</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/jaka karma</loc>
+    <loc>undefined/porady/nasi-pupile/kot</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/karmienie</loc>
+    <loc>undefined/porady/nasi-pupile/kot/bedziemy-miec-kota</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/kocie zabawki</loc>
+    <loc>undefined/porady/nasi-pupile/kot/cos o kocie</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/legowisko</loc>
+    <loc>undefined/porady/nasi-pupile/kot/drapaki</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/pielegnacja</loc>
+    <loc>undefined/porady/nasi-pupile/kot/jaka karma</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/pies-czy-kot</loc>
+    <loc>undefined/porady/nasi-pupile/kot/karmienie</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/pochlaniacz zapachu</loc>
+    <loc>undefined/porady/nasi-pupile/kot/kocie zabawki</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/smycze i obroze</loc>
+    <loc>undefined/porady/nasi-pupile/kot/legowisko</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/transportery</loc>
+    <loc>undefined/porady/nasi-pupile/kot/pielegnacja</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/wyprawka dla kota</loc>
+    <loc>undefined/porady/nasi-pupile/kot/pies-czy-kot</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/kot/zwirki</loc>
+    <loc>undefined/porady/nasi-pupile/kot/pochlaniacz zapachu</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/pies</loc>
+    <loc>undefined/porady/nasi-pupile/kot/smycze i obroze</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/pies/karmimy psa</loc>
+    <loc>undefined/porady/nasi-pupile/kot/transportery</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/pies/legowisko</loc>
+    <loc>undefined/porady/nasi-pupile/kot/wyprawka dla kota</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/pies/obroze</loc>
+    <loc>undefined/porady/nasi-pupile/kot/zwirki</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/pies/psie karmy</loc>
+    <loc>undefined/porady/nasi-pupile/pies</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/pies/psie zabawki</loc>
+    <loc>undefined/porady/nasi-pupile/pies/karmimy psa</loc>
   </url>
 
   <url>
-    <loc
-      >http://localhost:3000/porady/nasi-pupile/pies/skad wziac szczeniaka</loc
-    >
+    <loc>undefined/porady/nasi-pupile/pies/legowisko</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/pies/smycz</loc>
+    <loc>undefined/porady/nasi-pupile/pies/obroze</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/porady/nasi-pupile/pies/suche karmy</loc>
+    <loc>undefined/porady/nasi-pupile/pies/psie karmy</loc>
   </url>
 
   <url>
-    <loc
-      >http://localhost:3000/porady/nasi-pupile/pies/wyprawka dla
-      szczeniaka</loc
-    >
+    <loc>undefined/porady/nasi-pupile/pies/psie zabawki</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/skad wziac szczeniaka</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/smycz</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/suche karmy</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/wyprawka dla szczeniaka</loc>
   </url>
 </urlset>

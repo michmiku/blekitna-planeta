@@ -1,4 +1,4 @@
-Sitemap: https://blekitna-planeta.com/sitemap.xml
+Sitemap: https://blekitnaplaneta.com.pl/sitemap.xml
 
 User-agent: *
 Allow: /*

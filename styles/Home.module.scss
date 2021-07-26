@@ -19,11 +19,12 @@
     width: 100%;
     cursor: pointer;
 
+
     img {
-      max-height: 48px;
-      height: 100%;
-      width: 100%;
+      width: auto !important;
+      height: 48px !important;
     }
+
 
     .mobileMenuButton {
       display: none;
@@ -62,6 +63,7 @@
 
           .dropdownIcon {
             display: none;
+
             @media(max-width: $breakpointTablet) {
               width: 20px;
             }
@@ -114,9 +116,10 @@
         display: flex;
         font-size: 22px;
         width: 22px;
-        color:#212121;
+        color: #212121;
         justify-self: flex-end;
       }
+
 
       p {
         font-size: 18px;
@@ -173,6 +176,7 @@
   background-color: $lightBlueColor;
   color: $backgroundGrayColor;
   @include flexContainterColumn;
+
   .footerLogo {
     padding: 20px 0;
     width: 100%;
@@ -181,11 +185,18 @@
     justify-content: center;
     background-color: $backgroundGrayColor;
   }
+
+  img {
+    height: 60px;
+    width: auto;
+  }
+
   .footerContent {
     padding: 20px 0;
     width: 100%;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+
     div {
       grid-column: span 1;
       display: flex;
@@ -195,18 +206,22 @@
       color: $backgroundGrayColor;
       font-size: 14px;
     }
+
     .socialMedia {
       flex-direction: row;
+
       .socialMediaIcon {
         width: 32px;
         margin: 10px;
         cursor: pointer;
         color: #e3f2fd;
+
         &:hover {
           color: #212121;
         }
       }
     }
+
     @media (max-width: $breakpointPhone) {
       @include flexContainterColumn;
     }
@@ -233,9 +248,10 @@
   background-size: cover;
   position: relative;
   color: white;
-  text-shadow: 0px 15px 5px rgba(0,0,0,0.1),
-                 10px 20px 5px rgba(0,0,0,0.05),
-                 -10px 20px 5px rgba(0,0,0,0.05);
+  text-shadow: 0px 15px 5px rgba(0, 0, 0, 0.1),
+    10px 20px 5px rgba(0, 0, 0, 0.05),
+    -10px 20px 5px rgba(0, 0, 0, 0.05);
+
   div {
     .heroText {
       width: fit-content;
@@ -258,10 +274,12 @@
     div {
       right: 4%;
       bottom: -2%;
+
       .heroText {
         h1 {
           font-size: 54px;
         }
+
         p {
           font-size: 28px;
         }
@@ -273,10 +291,12 @@
     div {
       right: 3%;
       bottom: -4%;
+
       .heroText {
         h1 {
           font-size: 32px;
         }
+
         p {
           font-size: 20px;
         }
@@ -288,7 +308,7 @@
 
 .mainCarousel {
   width: 100%;
-  height: 400px;  
+  height: 400px;
 }
 
 .aboutUs {

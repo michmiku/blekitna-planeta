@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import styles from 'styles/Home.module.scss';
 import NavigationButton from './NavigationButton';
-import { faList } from '@fortawesome/free-solid-svg-icons'
+import { faBars } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { useEffect, useRef } from 'react';
 import { useRouter } from 'next/router';
@@ -33,10 +33,10 @@ const Navbar = () => {
     <nav className={styles.mainNav}>
       <div className={styles.logo}>
         <div className={styles.mobileMenuButton} onClick={handleToggleMenu}>
-          <FontAwesomeIcon className={styles.dropdownIcon} icon={faList} />
+          <FontAwesomeIcon className={styles.dropdownIcon} icon={faBars} />
         </div>
         <Link href='/'>
-          <Image src='/logo.png' alt='logo' width='auto' height='40' />
+          <img src='/logo.png' />
         </Link>
       </div>
       <div

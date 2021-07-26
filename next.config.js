@@ -14,5 +14,6 @@ module.exports = {
     },
     env: {
         ROOT: __dirname,
+        SITE_URL: 'https://localhost:3000'
     }
 }
