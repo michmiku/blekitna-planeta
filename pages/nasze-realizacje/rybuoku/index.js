@@ -17,7 +17,16 @@ export default function Post({ post, morePosts, preview }) {
 export async function getStaticProps({ params }) {
   const post = getPostBySlug(
     "rybuoku",
-    ["title", "date", "slug", "author", "content", "ogImage", "coverImage", 'excerpt'],
+    [
+      "title",
+      "date",
+      "slug",
+      "author",
+      "content",
+      "ogImage",
+      "coverImage",
+      "excerpt",
+    ],
     path
   );
 
@@ -33,17 +42,17 @@ export async function getStaticProps({ params }) {
   };
 }
 
-export async function getStaticPaths() {
-  const posts = getAllPosts(["slug"], path);
+// export async function getStaticPaths() {
+//   const posts = getAllPosts(["slug"], path);
 
-  return {
-    paths: posts.map((post) => {
-      return {
-        params: {
-          slug: post.slug,
-        },
-      };
-    }),
-    fallback: false,
-  };
-}
+//   return {
+//     paths: posts.map((post) => {
+//       return {
+//         params: {
+//           slug: post.slug,
+//         },
+//       };
+//     }),
+//     fallback: false,
+//   };
+// }

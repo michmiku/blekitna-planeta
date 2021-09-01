@@ -7,14 +7,10 @@ const slideTwoSrc = "/MZ_013.jpg";
 const slideThreeSrc = "/MZ_022.jpg";
 
 const ControledCarousel = () => {
-  const [index, setIndex] = useState(0);
-
-  const handleSelect = (selectedIndex, e) => setIndex(selectedIndex);
-
   const files = [slideOneSrc, slideTwoSrc, slideThreeSrc];
 
   return (
-    <Carousel activeIndex={index} onSelect={handleSelect}>
+    <Carousel fade>
       {files.map((file, key) => (
         <Carousel.Item key={key}>
           <img src={file} />
