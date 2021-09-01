@@ -1,11 +1,11 @@
-import Image from 'next/image';
-import styles from 'styles/Home.module.scss';
-import NavigationButton from './NavigationButton';
-import { faBars } from '@fortawesome/free-solid-svg-icons'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { useEffect, useRef } from 'react';
-import { useRouter } from 'next/router';
-import Link from 'next/link';
+import Image from "next/image";
+import styles from "styles/Home.module.scss";
+import NavigationButton from "./NavigationButton";
+import { faBars } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { useEffect, useRef } from "react";
+import { useRouter } from "next/router";
+import Link from "next/link";
 
 const Navbar = () => {
   const linksRef = useRef(null);
@@ -25,9 +25,8 @@ const Navbar = () => {
   }, [router.pathname]);
 
   useEffect(() => {
-    if (window.innerWidth < 1024)
-      linksRef.current.style.display = 'none'
-  }, [router.pathname])
+    if (window.innerWidth < 1024) linksRef.current.style.display = "none";
+  }, [router.pathname]);
 
   return (
     <nav className={styles.mainNav}>
@@ -35,101 +34,94 @@ const Navbar = () => {
         <div className={styles.mobileMenuButton} onClick={handleToggleMenu}>
           <FontAwesomeIcon className={styles.dropdownIcon} icon={faBars} />
         </div>
-        <Link href='/'>
-<<<<<<< HEAD
-          <img src='/logo.png' />
-=======
-          <img src='logo.png' alt='logo' />
->>>>>>> b8180c2162077c41f0e382aadc0f7a63c5667c84
+        <Link href="/">
+          <img src="logo.png" alt="logo" />
         </Link>
       </div>
-      <div
-        className={styles.allLinks}
-        ref={linksRef}
-      >
+      <div className={styles.allLinks} ref={linksRef}>
         <NavigationButton
-          parentLink=''
-          link=''
-          content='O nas'
+          parentLink=""
+          link=""
+          content="O nas"
           isAside={false}
           dropdowns={[]}
         />
         <NavigationButton
-          parentLink=''
-          link='aktualnosci'
-          content='Aktualności'
+          parentLink=""
+          link="aktualnosci"
+          content="Aktualności"
           isAside={false}
           dropdowns={[]}
         />
         <NavigationButton
-          parentLink=''
-          link='porady'
-          content='Porady'
+          parentLink=""
+          link="porady"
+          content="Porady"
           isAside={false}
           dropdowns={[
             {
-              link: 'okiem-akwarysty',
-              content: 'Okiem akwarysty',
+              link: "okiem-akwarysty",
+              content: "Okiem akwarysty",
               isAside: true,
-              dropdowns: []
+              dropdowns: [],
             },
             {
-              link: 'nasi-pupile',
-              content: 'Nasi Pupile',
+              link: "nasi-pupile",
+              content: "Nasi Pupile",
               isAside: true,
               dropdowns: [
                 {
-                  link: 'pies',
-                  content: 'Pies',
+                  link: "pies",
+                  content: "Pies",
                   isAside: true,
-                  dropdowns: []
+                  dropdowns: [],
                 },
                 {
-                  link: 'kot',
-                  content: 'Kot',
+                  link: "kot",
+                  content: "Kot",
                   isAside: true,
-                  dropdowns: []
+                  dropdowns: [],
                 },
                 {
-                  link: 'inne',
-                  content: 'Inne',
+                  link: "inne",
+                  content: "Inne",
                   isAside: true,
-                  dropdowns: []
+                  dropdowns: [],
                 },
-              ]
+              ],
             },
           ]}
         />
         <NavigationButton
-          parentLink=''
-          link='nasze-realizacje'
-          content='Nasze Realizacje'
+          parentLink=""
+          link="nasze-realizacje"
+          content="Nasze Realizacje"
           isAside={false}
           dropdowns={[
             {
-              link: 'rybuoku',
-              content: 'Realizacja w stylu Rybuoku',
+              link: "rybuoku",
+              content: "Realizacja w stylu Rybuoku",
               isAside: true,
-              dropdowns: []
+              dropdowns: [],
             },
             {
-              link: 'slodkowodne',
-              content: 'Nasze akwaria słodkowodne',
+              link: "slodkowodne",
+              content: "Nasze akwaria słodkowodne",
               isAside: true,
-              dropdowns: []
+              dropdowns: [],
             },
             {
-              link: 'terraria',
-              content: 'Terraria',
+              link: "terraria",
+              content: "Terraria",
               isAside: true,
-              dropdowns: []
+              dropdowns: [],
             },
           ]}
         />
         <NavigationButton
-          parentLink=''
-          link='kontakt'
-          content='Kontakt'
+          parentLink=""
+          link="kontakt"
+          content="Kontakt"
           isAside={false}
           dropdowns={[]}
         />
