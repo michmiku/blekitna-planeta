@@ -1,133 +1,128 @@
-@import 'variables';
-@import 'mixins';
+@import "variables";
+@import "mixins";
 
 .pageHeader {
-    div {
-        h1 {
-            text-align: center;
-            font-size: 40px;
-            font-family: $headerFontFamily;
-            color: white;
-            margin: 0;
+  div {
+    h1 {
+      text-align: center;
+      font-size: 40px;
+      color: white;
+      margin: 0;
 
-            @media (max-width: $breakpointPhone) {
-                font-size: 28px;
-                font-weight: lighter;
-            }
-
-        }
+      @media (max-width: $breakpointPhone) {
+        font-size: 28px;
+        font-weight: lighter;
+      }
     }
+  }
 
-    background-color: $lightBlueColor;
-    padding: 40px;
-    margin-bottom: 40px
+  background-color: $lightBlueColor;
+  padding: 40px;
+  margin-bottom: 40px;
 }
 
 .contactInformations {
-    @include flexContainterRow;
-    justify-content: space-around;
-    margin-top: 20px;
+  @include flexContainterRow;
+  justify-content: space-around;
+  margin-top: 20px;
+  width: 100%;
+
+  div {
+    height: 20vh;
     width: 100%;
 
+    hr {
+      width: 70%;
+      border: 0;
+      height: 1px;
+      background: $titleFontColor;
+    }
+
+    h1 {
+      font-size: 32px;
+      font-weight: lighter;
+      color: $titleFontColor;
+      text-align: center;
+    }
+
+    p {
+      margin: 10px 0;
+      color: $textFontColor;
+      text-align: center;
+    }
+  }
+
+  @media (max-width: $breakpointPhone) {
+    @include flexContainterColumn;
+
     div {
-        height: 20vh;
-        width: 100%;
-
-        hr {
-            width: 70%;
-            border: 0;
-            height: 1px;
-            background: $titleFontColor;
-        }
-
-        h1 {
-            font-size: 32px;
-            font-weight: lighter;
-            font-family: $headerFontFamily;
-            color: $titleFontColor;
-            text-align: center;
-        }
-
-        p {
-            margin: 10px 0;
-            color: $textFontColor;
-            text-align: center;
-        }
+      height: 100%;
     }
-
-    @media (max-width: $breakpointPhone) {
-        @include flexContainterColumn;
-
-        div {
-            height: 100%;
-        }
-    }
+  }
 }
 
 .cityHeader {
-    font-size: 32px;
-    font-weight: lighter;
-    font-family: $headerFontFamily;
-    color: $titleFontColor;
-    text-align: center;
+  font-size: 32px;
+  font-weight: lighter;
+  color: $titleFontColor;
+  text-align: center;
 }
 
 .contactContainer {
-    h1 {
-        font-family: $headerFontFamily;
-        width: 100%;
-    }
-
+  h1 {
     width: 100%;
-    @include flexContainterRow;
+  }
 
-    .informationsPanel {
+  width: 100%;
+  @include flexContainterRow;
+
+  .informationsPanel {
+    width: 100%;
+    @include flexContainterColumn;
+
+    hr {
+      width: 70%;
+    }
+
+    h1 {
+      font-weight: lighter;
+      color: $titleFontColor;
+      text-align: center;
+
+      @media (max-width: $breakpointTablet) {
+        display: none;
+      }
+    }
+
+    p {
+      margin: 10px 0;
+      color: $textFontColor;
+    }
+  }
+
+  .contactMap {
+    width: 100%;
+    margin: 4% 1%;
+
+    h1 {
+      text-align: center;
+      color: $titleFontColor;
+    }
+
+    div {
+      border: 20px solid $titleFontColor;
+      border-width: 20px 0;
+
+      iframe {
         width: 100%;
-        @include flexContainterColumn;
-
-        hr {
-            width: 70%;
-        }
-
-        h1 {
-            font-weight: lighter;
-            color: $titleFontColor;
-            text-align: center;
-
-            @media (max-width: $breakpointTablet) {
-                display: none;
-            }
-        }
-
-        p {
-            margin: 10px 0;
-            color: $textFontColor;
-        }
+        height: 40vh;
+        border: 0;
+      }
     }
+  }
 
-    .contactMap {
-        width: 100%;
-        margin: 4% 1%;
-
-        h1 {
-            text-align: center;
-            color: $titleFontColor;
-        }
-
-        div {
-            border: 20px solid $titleFontColor;
-            border-width: 20px 0;
-
-            iframe {
-                width: 100%;
-                height: 40vh;
-                border: 0;
-            }
-        }
-    }
-
-    @media (max-width: $breakpointTablet) {
-        @include flexContainterColumn;
-        flex-direction: column-reverse;
-    }
+  @media (max-width: $breakpointTablet) {
+    @include flexContainterColumn;
+    flex-direction: column-reverse;
+  }
 }

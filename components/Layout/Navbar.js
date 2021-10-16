@@ -48,13 +48,6 @@ const Navbar = () => {
         />
         <NavigationButton
           parentLink=""
-          link="aktualnosci"
-          content="Aktualności"
-          isAside={false}
-          dropdowns={[]}
-        />
-        <NavigationButton
-          parentLink=""
           link="porady"
           content="Porady"
           isAside={false}
@@ -94,29 +87,10 @@ const Navbar = () => {
         />
         <NavigationButton
           parentLink=""
-          link="nasze-realizacje"
-          content="Nasze Realizacje"
+          link="galeria"
+          content="Galeria"
           isAside={false}
-          dropdowns={[
-            {
-              link: "rybuoku",
-              content: "Realizacja w stylu Rybuoku",
-              isAside: true,
-              dropdowns: [],
-            },
-            {
-              link: "slodkowodne",
-              content: "Nasze akwaria słodkowodne",
-              isAside: true,
-              dropdowns: [],
-            },
-            {
-              link: "terraria",
-              content: "Terraria",
-              isAside: true,
-              dropdowns: [],
-            },
-          ]}
+          dropdowns={[]}
         />
         <NavigationButton
           parentLink=""
