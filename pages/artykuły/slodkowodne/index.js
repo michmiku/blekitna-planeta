@@ -4,7 +4,7 @@ import { getPostBySlug, getAllPosts } from "lib/api";
 import markdownToHtml from "lib/markdownToHtml";
 import Article from "components/Articles/Article";
 
-const path = "nasze-realizacje/akwaria-slodkowodne";
+const path = "artykuly/akwaria-slodkowodne";
 
 export default function Post({ post, morePosts, preview }) {
   const router = useRouter();
