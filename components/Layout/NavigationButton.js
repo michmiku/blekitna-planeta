@@ -8,12 +8,22 @@ import styles from 'styles/Home.module.scss';
 const NavigationButton = ({ parentLink, link, content, isAside, dropdowns }) => {
 
     const [isToggled, setIsToggled] = useState(false)
+    const [windowWidth, setWindowWidth] = useState()
+
     const router = useRouter()
 
     const dropdownContentRef = useRef(null)
 
     const fullLink = `${parentLink}/${link}`
     const dropdownsLink = dropdowns.map((item, index) => <NavigationButton parentLink={fullLink} {...item} key={index} />)
+
+    useEffect(() => {
+        const handleResize = () => setWindowWidth(window.innerWidth)
+        window.addEventListener('resize', handleResize)
+        return () => {
+          window.removeEventListener('resize', handleResize)
+        }
+    }, [])
 
     const handleToggleDropdown = e => {
         if (window.innerWidth < 1024) {
@@ -31,7 +41,9 @@ const NavigationButton = ({ parentLink, link, content, isAside, dropdowns }) => 
         if (dropdownContentRef.current !== null)
             if (window.innerWidth < 1024)
                 dropdownContentRef.current.style.display = 'none'
-    }, [router.pathname])
+            else 
+                dropdownContentRef.current.style.display = ''
+    }, [router.pathname, windowWidth])
 
     return (
         dropdowns.length !== 0 ? (

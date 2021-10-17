@@ -37,6 +37,10 @@
   </url>
 
   <url>
+    <loc>undefined/galeria/slodkowodne</loc>
+  </url>
+
+  <url>
     <loc>undefined/galeria/terraria</loc>
   </url>
 
@@ -58,10 +62,6 @@
 
   <url>
     <loc>undefined/galeria/terraria/zolwie ladowe</loc>
-  </url>
-
-  <url>
-    <loc>undefined/galeria/slodkowodne</loc>
   </url>
 
   <url>
@@ -125,6 +125,46 @@
   </url>
 
   <url>
+    <loc>undefined/porady/nasi-pupile/pies</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/karmimy psa</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/legowisko</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/obroze</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/psie karmy</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/psie zabawki</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/skad wziac szczeniaka</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/smycz</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/suche karmy</loc>
+  </url>
+
+  <url>
+    <loc>undefined/porady/nasi-pupile/pies/wyprawka dla szczeniaka</loc>
+  </url>
+
+  <url>
     <loc>undefined/porady/nasi-pupile/kot</loc>
   </url>
 
@@ -182,45 +222,5 @@
 
   <url>
     <loc>undefined/porady/nasi-pupile/kot/zwirki</loc>
-  </url>
-
-  <url>
-    <loc>undefined/porady/nasi-pupile/pies</loc>
-  </url>
-
-  <url>
-    <loc>undefined/porady/nasi-pupile/pies/karmimy psa</loc>
-  </url>
-
-  <url>
-    <loc>undefined/porady/nasi-pupile/pies/legowisko</loc>
-  </url>
-
-  <url>
-    <loc>undefined/porady/nasi-pupile/pies/obroze</loc>
-  </url>
-
-  <url>
-    <loc>undefined/porady/nasi-pupile/pies/psie karmy</loc>
-  </url>
-
-  <url>
-    <loc>undefined/porady/nasi-pupile/pies/psie zabawki</loc>
-  </url>
-
-  <url>
-    <loc>undefined/porady/nasi-pupile/pies/skad wziac szczeniaka</loc>
-  </url>
-
-  <url>
-    <loc>undefined/porady/nasi-pupile/pies/smycz</loc>
-  </url>
-
-  <url>
-    <loc>undefined/porady/nasi-pupile/pies/suche karmy</loc>
-  </url>
-
-  <url>
-    <loc>undefined/porady/nasi-pupile/pies/wyprawka dla szczeniaka</loc>
   </url>
 </urlset>

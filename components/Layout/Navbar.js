@@ -3,13 +3,15 @@ import styles from "styles/Home.module.scss";
 import NavigationButton from "./NavigationButton";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/router";
 import Link from "next/link";
 
 const Navbar = () => {
   const linksRef = useRef(null);
   const router = useRouter();
+
+  const [windowWidth, setWindowWidth] = useState()
 
   const handleToggleMenu = (e) => {
     if (
@@ -21,12 +23,21 @@ const Navbar = () => {
   };
 
   useEffect(() => {
-    if (window.innerWidth < 1024) linksRef.current.style.display = "none";
-  }, [router.pathname]);
+    const handleResize = () => setWindowWidth(window.innerWidth)
+    window.addEventListener('resize', handleResize)
+    return () => {
+      window.removeEventListener('resize', handleResize)
+    }
+  }, [])
+
+  useEffect(() => {
+    if (window.innerWidth >= 1024)
+      linksRef.current.style.display = "flex";
+  }, [router.pathname, windowWidth]);
 
   useEffect(() => {
     if (window.innerWidth < 1024) linksRef.current.style.display = "none";
-  }, [router.pathname]);
+  }, [router.pathname, windowWidth]);
 
   return (
     <nav className={styles.mainNav}>
