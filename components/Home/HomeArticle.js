@@ -25,6 +25,7 @@ const HomeArticle = ({
       <div className={styles.textBelow}>
         <span>{belowImageText}</span>
       </div>
+      {!isLeft && <div className={styles.bottomSkew}></div>}
     </article>
   );
 };

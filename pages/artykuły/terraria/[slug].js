@@ -4,7 +4,7 @@ import { getPostBySlug, getAllPosts } from "lib/api";
 import markdownToHtml from "lib/markdownToHtml";
 import Article from "components/Articles/Article";
 
-const path = "nasze-realizacje/terraria";
+const path = "artykuly/terraria";
 
 export default function Post({ post, morePosts, preview }) {
   const router = useRouter();

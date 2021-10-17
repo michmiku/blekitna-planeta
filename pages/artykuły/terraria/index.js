@@ -2,7 +2,7 @@ import ArticleList from "components/Articles/ArticleList";
 import { getAllPosts } from "lib/api";
 import styles from "styles/Home.module.scss";
 
-const path = "nasze-realizacje/terraria";
+const path = "artykuly/terraria";
 
 const Home = ({ allPosts, path }) => {
   return (
