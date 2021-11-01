@@ -16,7 +16,7 @@ export default function Post({ post, morePosts, preview }) {
 
 export async function getStaticProps({ params }) {
   const post = getPostBySlug(
-    "rybuoku",
+    params.slug,
     [
       "title",
       "date",
@@ -29,7 +29,6 @@ export async function getStaticProps({ params }) {
     ],
     path
   );
-
   const content = await markdownToHtml(post.content || "");
 
   return {
@@ -42,17 +41,17 @@ export async function getStaticProps({ params }) {
   };
 }
 
-// export async function getStaticPaths() {
-//   const posts = getAllPosts(["slug"], path);
+export async function getStaticPaths() {
+  const posts = getAllPosts(["slug"], path);
 
-//   return {
-//     paths: posts.map((post) => {
-//       return {
-//         params: {
-//           slug: post.slug,
-//         },
-//       };
-//     }),
-//     fallback: false,
-//   };
-// }
+  return {
+    paths: posts.map((post) => {
+      return {
+        params: {
+          slug: post.slug,
+        },
+      };
+    }),
+    fallback: false,
+  };
+}

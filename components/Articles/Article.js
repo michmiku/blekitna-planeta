@@ -7,6 +7,14 @@ const Article = ({ title, date, content, coverImage, excerpt }) => {
       <Head>
         <title>{title}</title>
         <meta
+          name="description"
+          content={excerpt}
+        />
+        <meta
+          name="robots"
+          content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+        />
+        <meta
           property="og:locale"
           content="pl_PL"
         />
@@ -19,7 +27,7 @@ const Article = ({ title, date, content, coverImage, excerpt }) => {
           content={title}
         />
         <meta
-          name="description"
+          property="og:description"
           content={excerpt}
         />
         <meta
@@ -27,6 +35,19 @@ const Article = ({ title, date, content, coverImage, excerpt }) => {
           content={coverImage}
           key="ogImage"
         />
+        <meta 
+          name="twitter:card" 
+          content={coverImage}
+        />
+         <meta
+          name="twitter:description"
+          content={excerpt}
+        />
+        <meta
+          name="twitter:title"
+          content={title}
+        />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <article className={styles.article}>
         <div className={styles.coverImage}>
