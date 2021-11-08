@@ -33,7 +33,7 @@ const prettier = require("prettier");
                       : path;
                   return `
                         <url>
-                            <loc>${`${process.env.SITE_URL}${route}`}</loc>
+                            <loc>${`https://www.blekitnaplaneta.com.pl${route}`}</loc>
                         </url>
                     `;
                 } else {
@@ -43,9 +43,10 @@ const prettier = require("prettier");
                   const all = slugs.map((article) => {
                     return `
                         <url>
-                            <loc>${`${
-                              process.env.SITE_URL
-                            }${url}/${article.slice(0, -3)}`}</loc>
+                            <loc>${`https://www.blekitnaplaneta.com.pl${url}/${article.slice(
+                              0,
+                              -3
+                            )}`}</loc>
                         </url>
                         `;
                   });

@@ -1,11 +1,11 @@
 ---
-title: 'Jak i czym pielęgnować kota?'
-excerpt: 'Akcesoria do pielęgnacji dla kotów – będą nam potrzebne, ale to jakie kupimy zależy od tego, jakiego kota mamy. Nieco innej pielęgnacji wymagają zwierzęta długowłose, a innej krótkowłose. Podobnie jest z osobnikami wystawianymi na wystawach i te, które są wyłącznie domowymi pupilami.'
-coverImage: '/kot.png'
-date: '2021-03-16T05:35:07.322Z'
-url: 'porady/nasi-pupile/kot/pies-czy-kot'
+title: "Jak i czym pielęgnować kota?"
+excerpt: "Akcesoria do pielęgnacji dla kotów – będą nam potrzebne, ale to jakie kupimy zależy od tego, jakiego kota mamy. Nieco innej pielęgnacji wymagają zwierzęta długowłose, a innej krótkowłose. Podobnie jest z osobnikami wystawianymi na wystawach i te, które są wyłącznie domowymi pupilami."
+coverImage: "/cleaning_cat.jpg"
+date: "2021-03-16"
+url: "porady/nasi-pupile/kot/pies-czy-kot"
 ogImage:
-  url: '/public/kot.png'
+  url: "/cleaning_cat.jpg"
 ---
 
 # Akcesoria do pielęgnacji dla kotów

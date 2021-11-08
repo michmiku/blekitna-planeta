@@ -1,11 +1,11 @@
 ---
-title: 'Żwirki w kociej toalecie'
-excerpt: 'W kilku kolejnych artykułach poruszymy kwestię kociej toalety czyli wszystkich aspektów związanych z załatwianiem przez naszego podopiecznego podstawowych potrzeb fizjologicznych. Wybór odpowiedniej kuwety,czy żwirku okazuje się nie być tak prostą sprawą jak z pozoru sie nam wydaje. Postaramy się po krótce opisać wspomniane elementy i pomóc w ich doborze, a zaczniemy od kocich żwirków.'
-coverImage: '/kot.png'
-date: '2021-03-16T05:35:07.322Z'
-url: 'porady/nasi-pupile/kot/pies-czy-kot'
+title: "Żwirki w kociej toalecie"
+excerpt: "W kilku kolejnych artykułach poruszymy kwestię kociej toalety czyli wszystkich aspektów związanych z załatwianiem przez naszego podopiecznego podstawowych potrzeb fizjologicznych. Wybór odpowiedniej kuwety,czy żwirku okazuje się nie być tak prostą sprawą jak z pozoru sie nam wydaje. Postaramy się po krótce opisać wspomniane elementy i pomóc w ich doborze, a zaczniemy od kocich żwirków."
+coverImage: "/litter_box_2.jpg"
+date: "2021-03-16"
+url: "porady/nasi-pupile/kot/pies-czy-kot"
 ogImage:
-  url: '/public/kot.png'
+  url: "/litter_box_2.jpg"
 ---
 
 W kilku kolejnych artykułach poruszymy kwestię kociej toalety czyli wszystkich aspektów związanych z załatwianiem przez naszego podopiecznego podstawowych potrzeb fizjologicznych. Wybór odpowiedniej kuwety,czy żwirku okazuje się nie być tak prostą sprawą jak z pozoru sie nam wydaje. Postaramy się po krótce opisać wspomniane elementy i pomóc w ich doborze, a zaczniemy od kocich żwirków.

@@ -1,8 +1,8 @@
 ---
-title: 'O kanarku'
-excerpt: 'Kanarek – pewnie ze względu na swój melodyjny śpiew – od wieków był modnym ptakiem i ulubieńcem dam na dworach. W Polsce pojawił się już w wieku XVIII, jednak w naszym kraju jego oficjalną hodowlą zajęto się dopiero po II Wojnie Światowej. Nie każdy zdaje sobie sprawę z tego, że wyróżniamy wiele ras kanarków, które odróżnia od siebie kolor, sylwetka oraz rodzaj śpiewu. W Polsce najczęściej mamy do czynienia z kanarkami niemieckimi w odmianie szlachetnej, czyli mające żółte lub pomarańczowe upierzenie.'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "O kanarku"
+excerpt: "Kanarek – pewnie ze względu na swój melodyjny śpiew – od wieków był modnym ptakiem i ulubieńcem dam na dworach. W Polsce pojawił się już w wieku XVIII, jednak w naszym kraju jego oficjalną hodowlą zajęto się dopiero po II Wojnie Światowej. Nie każdy zdaje sobie sprawę z tego, że wyróżniamy wiele ras kanarków, które odróżnia od siebie kolor, sylwetka oraz rodzaj śpiewu. W Polsce najczęściej mamy do czynienia z kanarkami niemieckimi w odmianie szlachetnej, czyli mające żółte lub pomarańczowe upierzenie."
+coverImage: "/canary.jpg"
+date: "21.05 2021r."
 ---
 
 Kanarek – pewnie ze względu na swój melodyjny śpiew – od wieków był modnym ptakiem i ulubieńcem dam na dworach. W Polsce pojawił się już w wieku XVIII, jednak w naszym kraju jego oficjalną hodowlą zajęto się dopiero po II Wojnie Światowej. Nie każdy zdaje sobie sprawę z tego, że wyróżniamy wiele ras kanarków, które odróżnia od siebie kolor, sylwetka oraz rodzaj śpiewu. W Polsce najczęściej mamy do czynienia z kanarkami niemieckimi w odmianie szlachetnej, czyli mające żółte lub pomarańczowe upierzenie.

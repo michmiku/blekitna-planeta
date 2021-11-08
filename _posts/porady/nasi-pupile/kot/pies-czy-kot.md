@@ -1,11 +1,11 @@
 ---
-title: 'Pies? A może kot?'
-excerpt: 'Czy lepszym towarzyszem dla dziecka jest pies czy kot? Na to pytanie trudno dać jednoznaczną odpowiedź. Zdania w tej kwestii są podzielone, jedni powiadają, że pies, inni, że kot. A znajdą się i tacy, którzy stanowczo twierdzić będą, że ani jedno ani drugie.'
-coverImage: '/kot.png'
-date: '2021-03-16T05:35:07.322Z'
-url: 'porady/nasi-pupile/kot/pies-czy-kot'
+title: "Pies? A może kot?"
+excerpt: "Czy lepszym towarzyszem dla dziecka jest pies czy kot? Na to pytanie trudno dać jednoznaczną odpowiedź. Zdania w tej kwestii są podzielone, jedni powiadają, że pies, inni, że kot. A znajdą się i tacy, którzy stanowczo twierdzić będą, że ani jedno ani drugie."
+coverImage: "/dog_and_cat.jpg"
+date: "2021-03-16"
+url: "porady/nasi-pupile/kot/pies-czy-kot"
 ogImage:
-  url: '/public/kot.png'
+  url: "/dog_and_cat.jpg"
 ---
 
 Czy lepszym towarzyszem dla dziecka jest pies czy kot? Na to pytanie trudno dać jednoznaczną odpowiedź. Zdania w tej kwestii są podzielone, jedni powiadają, że pies, inni, że kot. A znajdą się i tacy, którzy stanowczo twierdzić będą, że ani jedno ani drugie.

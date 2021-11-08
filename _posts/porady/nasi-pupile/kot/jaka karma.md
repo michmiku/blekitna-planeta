@@ -1,11 +1,11 @@
 ---
-title: 'Czym karmimy?'
-excerpt: 'Podejmując decyzję o powiększeniu rodziny o czworonożnego członka, musimy liczyć się z koniecznością zakupu pewnych niezbędnych dla niego rzeczy. Do sklepu zoologicznego po wyprawkę dla kota warto wybrać się zanim jeszcze zwierzak zawita do naszego domu.'
-coverImage: '/kot.png'
-date: '2021-03-16T05:35:07.322Z'
-url: 'porady/nasi-pupile/kot/pies-czy-kot'
+title: "Czym karmimy?"
+excerpt: "Podejmując decyzję o powiększeniu rodziny o czworonożnego członka, musimy liczyć się z koniecznością zakupu pewnych niezbędnych dla niego rzeczy. Do sklepu zoologicznego po wyprawkę dla kota warto wybrać się zanim jeszcze zwierzak zawita do naszego domu."
+coverImage: "/cat_food.jpg"
+date: "2021-03-16"
+url: "porady/nasi-pupile/kot/pies-czy-kot"
 ogImage:
-  url: '/public/kot.png'
+  url: "/cat_food.jpg"
 ---
 
 # Jaką karmę wybrać dla kota?

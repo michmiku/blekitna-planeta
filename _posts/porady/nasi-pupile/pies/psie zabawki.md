@@ -1,8 +1,8 @@
 ---
-title: 'Pies się bawi'
-excerpt: 'Pies potrzebuje zabawek – nie ma co do tego wątpliwości. Szczególnie, gdy jest jeszcze szczenięciem. Zupełnie jak nasze dzieci. Zabawki dostarczają zwierzakowi rozrywki, dają mu zajęcie, łagodzą „swędzenie” dziąseł podczas wyżynania zębów a przede wszystkim przyczyniają się do rozwoju sprawności fizycznej i intelektualnej naszego pupila. Jakie zabawki dla psów znajdziemy w sklepach zoologicznych? Przedstawiamy kilka najpopularniejszych rodzajów.'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "Pies się bawi"
+excerpt: "Pies potrzebuje zabawek – nie ma co do tego wątpliwości. Szczególnie, gdy jest jeszcze szczenięciem. Zupełnie jak nasze dzieci. Zabawki dostarczają zwierzakowi rozrywki, dają mu zajęcie, łagodzą „swędzenie” dziąseł podczas wyżynania zębów a przede wszystkim przyczyniają się do rozwoju sprawności fizycznej i intelektualnej naszego pupila. Jakie zabawki dla psów znajdziemy w sklepach zoologicznych? Przedstawiamy kilka najpopularniejszych rodzajów."
+coverImage: "/playing_dog.jpg"
+date: "21.05 2021r."
 ---
 
 Pies potrzebuje zabawek – nie ma co do tego wątpliwości. Szczególnie, gdy jest jeszcze szczenięciem. Zupełnie jak nasze dzieci. Zabawki dostarczają zwierzakowi rozrywki, dają mu zajęcie, łagodzą „swędzenie” dziąseł podczas wyżynania zębów a przede wszystkim przyczyniają się do rozwoju sprawności fizycznej i intelektualnej naszego pupila. Jakie zabawki dla psów znajdziemy w sklepach zoologicznych? Przedstawiamy kilka najpopularniejszych rodzajów.

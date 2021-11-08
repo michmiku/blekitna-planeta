@@ -1,8 +1,8 @@
 ---
-title: 'O karmieniu'
-excerpt: 'W codziennym żywieniu naszych psiaków ważne jest nie tylko to, co serwujemy mu do jedzenia. Duże znaczenia ma również sposób karmienia, czyli między innymi liczba posiłków dziennie. Jak często zatem powinniśmy karmić psa?'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "O karmieniu"
+excerpt: "W codziennym żywieniu naszych psiaków ważne jest nie tylko to, co serwujemy mu do jedzenia. Duże znaczenia ma również sposób karmienia, czyli między innymi liczba posiłków dziennie. Jak często zatem powinniśmy karmić psa?"
+coverImage: "/dog_food.jpg"
+date: "21.05 2021r."
 ---
 
 # Jak często karmić psa?

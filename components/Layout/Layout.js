@@ -1,6 +1,7 @@
 import Footer from "./Footer";
 import Navbar from "./Navbar";
 import Head from "next/head";
+import CookieConsent, { Cookies } from "react-cookie-consent";
 
 const Layout = ({ children }) => {
   return (
@@ -20,35 +21,26 @@ const Layout = ({ children }) => {
           name="robots"
           content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"
         />
-        <meta
-          property="og:locale"
-          content="pl_PL"
-        />
-        <meta
-          property="og:type"
-          conetent="website"
-        />
-        <meta
-          name="og:title"
-          content="Błękitna planeta"
-        />
+        <meta property="og:locale" content="pl_PL" />
+        <meta property="og:type" conetent="website" />
+        <meta name="og:title" content="Błękitna planeta" />
         <meta
           property="og:description"
           content="Sklep Zoologiczny Błękitna Planeta Kraków"
         />
-         <meta
+        <meta
           name="twitter:description"
           content="Sklep Zoologiczny Błękitna Planeta Kraków"
         />
-        <meta
-          name="twitter:title"
-          content="Błęktina planeta"
-        />
+        <meta name="twitter:title" content="Błęktina planeta" />
       </Head>
       <div className="content">
         <Navbar />
         {children}
         <Footer />
+        <CookieConsent>
+          This website uses cookies to enhance the user experience.
+        </CookieConsent>
       </div>
     </>
   );

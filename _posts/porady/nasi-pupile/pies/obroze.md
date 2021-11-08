@@ -1,8 +1,8 @@
 ---
-title: 'Psie obroże'
-excerpt: 'Obroża to jedno z podstawowych akcesoriów dla psa.W prostej formie mogła istnieć już wiele tysięcy lat temu. Co ciekawe, na przestrzeni wieków niewiele się zmieniła – współczesne obroże są bardzo podobne do tych sprzed 100 czy 200 lat. Zobaczmy zatem, jakie obroże dla psów znajdziemy w sklepach zoologicznych?'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "Psie obroże"
+excerpt: "Obroża to jedno z podstawowych akcesoriów dla psa.W prostej formie mogła istnieć już wiele tysięcy lat temu. Co ciekawe, na przestrzeni wieków niewiele się zmieniła – współczesne obroże są bardzo podobne do tych sprzed 100 czy 200 lat. Zobaczmy zatem, jakie obroże dla psów znajdziemy w sklepach zoologicznych?"
+coverImage: "/collar.jpg"
+date: "21.05 2021r."
 ---
 
 Obroża to jedno z podstawowych akcesoriów dla psa.W prostej formie mogła istnieć już wiele tysięcy lat temu. Co ciekawe, na przestrzeni wieków niewiele się zmieniła – współczesne obroże są bardzo podobne do tych sprzed 100 czy 200 lat. Zobaczmy zatem, jakie obroże dla psów znajdziemy w sklepach zoologicznych?

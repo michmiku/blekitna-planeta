@@ -1,11 +1,11 @@
 ---
-title: 'Kocie drapaki'
-excerpt: 'Wizja podrapanych mebli odstrasza wielu potencjalnych właścicieli kotów. Niestety raczej nie ma co liczyć na to, że zwierzak nie będzie ostrzył pazurów. Solidny drapak dla kota i trochę cierpliwości w uczeniu pupila, mogą w dużej mierze ochronić kanapy, krzesła i fotele przed zniszczeniem.'
-coverImage: '/kot.png'
-date: '2021-03-16T05:35:07.322Z'
-url: 'porady/nasi-pupile/kot/pies-czy-kot'
+title: "Kocie drapaki"
+excerpt: "Wizja podrapanych mebli odstrasza wielu potencjalnych właścicieli kotów. Niestety raczej nie ma co liczyć na to, że zwierzak nie będzie ostrzył pazurów. Solidny drapak dla kota i trochę cierpliwości w uczeniu pupila, mogą w dużej mierze ochronić kanapy, krzesła i fotele przed zniszczeniem."
+coverImage: "/cat_tree.jpg"
+date: "2021-03-16"
+url: "porady/nasi-pupile/kot/pies-czy-kot"
 ogImage:
-  url: '/public/kot.png'
+  url: "/cat_tree.jpg"
 ---
 
 # Drapaki dla kotów

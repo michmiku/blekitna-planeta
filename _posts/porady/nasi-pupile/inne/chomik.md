@@ -1,8 +1,8 @@
 ---
-title: 'O chomiku'
-excerpt: 'Chomiki są pierwszymi pupilami wielu dzieci. To bowiem mało wymagające i sympatyczne zwierzaki, które nie zajmują dużo miejsca w mieszkaniu. Tylko jaki gatunek chomika wybrać?'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "O chomiku"
+excerpt: "Chomiki są pierwszymi pupilami wielu dzieci. To bowiem mało wymagające i sympatyczne zwierzaki, które nie zajmują dużo miejsca w mieszkaniu. Tylko jaki gatunek chomika wybrać?"
+coverImage: "/hamster.jpg"
+date: "21.05 2021r."
 ---
 
 # Jaki chomik dla dziecka?

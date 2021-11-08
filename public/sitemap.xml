@@ -1,226 +1,361 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>undefined</loc>
+    <loc>https://www.blekitnaplaneta.com.pl</loc>
   </url>
 
   <url>
-    <loc>undefined/kontakt</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/kontakt</loc>
   </url>
 
   <url>
-    <loc>undefined/aktualnosci</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/aktualnosci</loc>
   </url>
 
   <url>
-    <loc>undefined/aktualnosci/Akcja Adopcyjna</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/aktualnosci/Akcja Adopcyjna</loc>
   </url>
 
   <url>
-    <loc>undefined/aktualnosci/Ewolucja Akwarium</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/aktualnosci/Ewolucja Akwarium</loc>
   </url>
 
   <url>
-    <loc>undefined/aktualnosci/IAPLC</loc>
-  </url>
-
-  <url>
-    <loc>undefined/aktualnosci/wywiad z Marcinem Zającem</loc>
-  </url>
-
-  <url>
-    <loc>undefined/galeria</loc>
-  </url>
-
-  <url>
-    <loc>undefined/artykuly/rybuoku</loc>
-  </url>
-
-  <url>
-    <loc>undefined/artykuly/slodkowodne</loc>
-  </url>
-
-  <url>
-    <loc>undefined/artykuly/terraria</loc>
-  </url>
-
-  <url>
-    <loc>undefined/artykuly/terraria/agama</loc>
-  </url>
-
-  <url>
-    <loc>undefined/artykuly/terraria/kameleon</loc>
-  </url>
-
-  <url>
-    <loc>undefined/artykuly/terraria/terraria tropikalne</loc>
-  </url>
-
-  <url>
-    <loc>undefined/artykuly/terraria/terrarium pustynne</loc>
-  </url>
-
-  <url>
-    <loc>undefined/artykuly/terraria/zolwie ladowe</loc>
-  </url>
-
-  <url>
-    <loc>undefined/porady/okiem-akwarysty</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/aktualnosci/IAPLC</loc>
   </url>
 
   <url>
     <loc
-      >undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 1 wstęp</loc
+      >https://www.blekitnaplaneta.com.pl/aktualnosci/wywiad z Marcinem
+      Zającem</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://www.blekitnaplaneta.com.pl/galeria</loc>
+  </url>
+
+  <url>
+    <loc>https://www.blekitnaplaneta.com.pl/artykuly/terraria</loc>
+  </url>
+
+  <url>
+    <loc>https://www.blekitnaplaneta.com.pl/artykuly/terraria/agama</loc>
+  </url>
+
+  <url>
+    <loc>https://www.blekitnaplaneta.com.pl/artykuly/terraria/kameleon</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/artykuly/terraria/terraria
+      tropikalne</loc
     >
   </url>
 
   <url>
     <loc
-      >undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 2 woda</loc
+      >https://www.blekitnaplaneta.com.pl/artykuly/terraria/terrarium
+      pustynne</loc
     >
   </url>
 
   <url>
-    <loc>undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 3</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/artykuly/terraria/zolwie ladowe</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 4</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/artykuly/akwaria-slodkowodne</loc>
   </url>
 
   <url>
-    <loc>undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 5</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/artykuly/akwaria-slodkowodne/rybuoku</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 6</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/artykuly/akwaria-slodkowodne/slodkowodne</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/okiem-akwarysty/Moje pierwsze akwarium cz. 7</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/okiem-akwarysty</loc>
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/inne</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/okiem-akwarysty/Moje pierwsze
+      akwarium cz. 1 wstęp</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/inne/chomik</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/okiem-akwarysty/Moje pierwsze
+      akwarium cz. 2 woda</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/inne/fretka</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/okiem-akwarysty/Moje pierwsze
+      akwarium cz. 3</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/inne/kanarek</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/okiem-akwarysty/Moje pierwsze
+      akwarium cz. 4</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/inne/koszatniczka</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/okiem-akwarysty/Moje pierwsze
+      akwarium cz. 5</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/inne/swinka morska</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/okiem-akwarysty/Moje pierwsze
+      akwarium cz. 6</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/okiem-akwarysty/Moje pierwsze
+      akwarium cz. 7</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/bedziemy-miec-kota</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne</loc>
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/cos o kocie</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne/agama</loc>
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/drapaki</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne/chomik</loc>
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/jaka karma</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne/fretka</loc>
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/karmienie</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne/kameleon</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/kocie zabawki</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne/kanarek</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/legowisko</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne/koszatniczka</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/pielegnacja</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne/rybuoku</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/pies-czy-kot</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne/slodkowodne</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/pochlaniacz zapachu</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne/swinka
+      morska</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/smycze i obroze</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne/terraria
+      tropikalne</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/transportery</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne/terrarium
+      pustynne</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/wyprawka dla kota</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne/zolwie
+      ladowe</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/kot/zwirki</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot</loc>
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/pies</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/bedziemy-miec-kota</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/pies/karmimy psa</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/cos o
+      kocie</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/pies/legowisko</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/drapaki</loc>
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/pies/obroze</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/jaka karma</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/pies/psie karmy</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/karmienie</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/pies/psie zabawki</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/kocie
+      zabawki</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/pies/skad wziac szczeniaka</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/legowisko</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/pies/smycz</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/pielegnacja</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/pies/suche karmy</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/pies-czy-kot</loc
+    >
   </url>
 
   <url>
-    <loc>undefined/porady/nasi-pupile/pies/wyprawka dla szczeniaka</loc>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/pochlaniacz
+      zapachu</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/smycze i
+      obroze</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/transportery</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/wyprawka dla
+      kota</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot/zwirki</loc>
+  </url>
+
+  <url>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies/karmimy
+      psa</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies/legowisko</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies/obroze</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies/psie
+      karmy</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies/psie
+      zabawki</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies/skad wziac
+      szczeniaka</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies/smycz</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies/suche
+      karmy</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies/wyprawka dla
+      szczeniaka</loc
+    >
   </url>
 </urlset>

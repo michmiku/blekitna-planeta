@@ -1,8 +1,8 @@
 ---
-title: 'Wyprawka dla szczeniaka'
-excerpt: 'Skoro zdecydowaliśmy się powiększyć rodzinę o szczeniaka, powinniśmy się do tego dobrze przygotować. Oznacza to przede wszystkim skompletowanie wyprawki dla psiaka W jej skład powinny wejść przede wszystkim wszystkie najbardziej potrzebne akcesoria i karma.'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "Wyprawka dla szczeniaka"
+excerpt: "Skoro zdecydowaliśmy się powiększyć rodzinę o szczeniaka, powinniśmy się do tego dobrze przygotować. Oznacza to przede wszystkim skompletowanie wyprawki dla psiaka W jej skład powinny wejść przede wszystkim wszystkie najbardziej potrzebne akcesoria i karma."
+coverImage: "/dogs.jpg"
+date: "21.05 2021r."
 ---
 
 # Wyprawka dla szczeniaka

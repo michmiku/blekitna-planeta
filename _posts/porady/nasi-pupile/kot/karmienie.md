@@ -1,11 +1,11 @@
 ---
-title: 'Coś o karmieniu'
-excerpt: 'Duży nacisk kładzie się ostatnio na żywienie kotów zgodnie z ich naturą. Mamy tu na myśli głównie stosowanie diety, która w jak największym stopniu odzwierciedla wrodzone potrzeby pokarmowe naszych pupili. I słusznie. Sądzę jednak, że określenie „zgodnie z naturą” można odnieść również do sposobu karmienia kota, czyli między innymi do częstotliwości serwowania mu posiłków.'
-coverImage: '/kot.png'
-date: '2021-03-16T05:35:07.322Z'
-url: 'porady/nasi-pupile/kot/pies-czy-kot'
+title: "Coś o karmieniu"
+excerpt: "Duży nacisk kładzie się ostatnio na żywienie kotów zgodnie z ich naturą. Mamy tu na myśli głównie stosowanie diety, która w jak największym stopniu odzwierciedla wrodzone potrzeby pokarmowe naszych pupili. I słusznie. Sądzę jednak, że określenie „zgodnie z naturą” można odnieść również do sposobu karmienia kota, czyli między innymi do częstotliwości serwowania mu posiłków."
+coverImage: "/cat_food_2.jpg"
+date: "2021-03-16"
+url: "porady/nasi-pupile/kot/pies-czy-kot"
 ogImage:
-  url: '/public/kot.png'
+  url: "/cat_food_2.jpg"
 ---
 
 # Jak często karmić kota?

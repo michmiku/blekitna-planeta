@@ -1,8 +1,8 @@
 ---
-title: 'Koszatniczka'
-excerpt: 'Koszatniczki są gryzoniami, które pochodzą z Ameryki Południowej. Są towarzyskimi zwierzątkami, które stanowią bardzo wdzięczny obiekt obserwacji, natomiast obcowanie z nimi daje właścicielowi niezmiernie dużo przyjemności. Ich oswojenie nie stanowi problemu,a sama hodowla jest dosyć łatwa. W niewoli żyją na ogół od pięciu do dziewięciu lat.'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "Koszatniczka"
+excerpt: "Koszatniczki są gryzoniami, które pochodzą z Ameryki Południowej. Są towarzyskimi zwierzątkami, które stanowią bardzo wdzięczny obiekt obserwacji, natomiast obcowanie z nimi daje właścicielowi niezmiernie dużo przyjemności. Ich oswojenie nie stanowi problemu,a sama hodowla jest dosyć łatwa. W niewoli żyją na ogół od pięciu do dziewięciu lat."
+coverImage: "/degu.jpg"
+date: "21.05 2021r."
 ---
 
 Koszatniczki są gryzoniami, które pochodzą z Ameryki Południowej. Są towarzyskimi zwierzątkami, które stanowią bardzo wdzięczny obiekt obserwacji, natomiast obcowanie z nimi daje właścicielowi niezmiernie dużo przyjemności. Ich oswojenie nie stanowi problemu,a sama hodowla jest dosyć łatwa. W niewoli żyją na ogół od pięciu do dziewięciu lat.
@@ -17,7 +17,7 @@ Koszatniczkę powinniśmy karmić suchą karmą przeznaczoną specjalnie dla nie
 
 # Hodowla
 
-Koszatniczki są ciągle w ruchu, uwielbiają się wspinać i skakać. Z tego powodu najlepszym rozwiązaniem będzie piętrowa klatka z metalowych prętów. Wyposażmy ją w drewniane elementy. Na dno klatki wyłóżmy trociny, które można kupić w każdym sklepie zoologicznym. Domek koszatniczki powinien być ustawiony w możliwie chłodnym miejscu, ponieważ te zwierzaki nie lubią wysokich temperatur. Klatkę powinniśmy czyścić przynajmniej raz w tygodniu. Warto zakupić także specjalny piasek, w którym koszatniczka (podobnie jak szynszyla) będzie mogła się „kąpać”. Dzięki temu oczyści swoje futerko. Nie musimy, więc ich dodatkowo kąpać, ani czesać. Mają wrodzoną potrzebę zachowania czystości.  
+Koszatniczki są ciągle w ruchu, uwielbiają się wspinać i skakać. Z tego powodu najlepszym rozwiązaniem będzie piętrowa klatka z metalowych prętów. Wyposażmy ją w drewniane elementy. Na dno klatki wyłóżmy trociny, które można kupić w każdym sklepie zoologicznym. Domek koszatniczki powinien być ustawiony w możliwie chłodnym miejscu, ponieważ te zwierzaki nie lubią wysokich temperatur. Klatkę powinniśmy czyścić przynajmniej raz w tygodniu. Warto zakupić także specjalny piasek, w którym koszatniczka (podobnie jak szynszyla) będzie mogła się „kąpać”. Dzięki temu oczyści swoje futerko. Nie musimy, więc ich dodatkowo kąpać, ani czesać. Mają wrodzoną potrzebę zachowania czystości.
 
 Nie ma potrzeby obcinania jej pazurków, ponieważ sama je ściera wspinając się po gałęziach. Co ważne, koszatniczki niezbyt często chorują. Oczywiście występują choroby genetyczne, jednak dużo częściej zdarzają się one w Stanach Zjednoczonych niż w Europie. W przypadku jakichkolwiek chorób konieczna jest wizyta u weterynarza, który przepisze leki i poradzi jak postępować ze zwierzątkiem.
 

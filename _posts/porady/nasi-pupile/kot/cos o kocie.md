@@ -1,11 +1,11 @@
 ---
-title: 'Coś o kocie'
+title: "Coś o kocie"
 excerpt: 'Dziś parę słów do tych potencjalnych osób ,które zechcą skorzystać z kilku rad dotyczących wychowywania kota. Ktoś spyta,a czy to w ogóle możliwe skoro te zwierzaki znane sa z chodzenia własnymi ścieżkami ? Okazuje się,że przy odrobinie cierpliwości możemy "ułożyć" naszego ewentualnego małego uparciucha,a pierwszą zasadą skutecznego wychowania musi być nasza konsekwencja od pierwszego dnia,gdy tylko kot pojawi się w naszym domu.'
-coverImage: '/kot.png'
-date: '2021-03-16T05:35:07.322Z'
-url: 'porady/nasi-pupile/kot/pies-czy-kot'
+coverImage: "/cat.jpg"
+date: "2021-03-16"
+url: "porady/nasi-pupile/kot/pies-czy-kot"
 ogImage:
-  url: '/public/kot.png'
+  url: "/cat.jpg"
 ---
 
 Dziś parę słów do tych potencjalnych osób ,które zechcą skorzystać z kilku rad dotyczących wychowywania kota. Ktoś spyta,a czy to w ogóle możliwe skoro te zwierzaki znane sa z chodzenia własnymi ścieżkami ? Okazuje się,że przy odrobinie cierpliwości możemy "ułożyć" naszego ewentualnego małego uparciucha,a pierwszą zasadą skutecznego wychowania musi być nasza konsekwencja od pierwszego dnia,gdy tylko kot pojawi się w naszym domu.

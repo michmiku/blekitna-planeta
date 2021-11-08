@@ -1,8 +1,8 @@
 ---
-title: 'Skąd wziąć szczenię'
-excerpt: 'Skąd wziąć psa? Decyzja o powiększeniu rodziny o czworonożnego członka zapadła! Tylko skąd wziąć psa? Wszystko zależy od tego, czy pragniemy zostać opiekunami psa rasowego czy kundelka.'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "Skąd wziąć szczenię"
+excerpt: "Skąd wziąć psa? Decyzja o powiększeniu rodziny o czworonożnego członka zapadła! Tylko skąd wziąć psa? Wszystko zależy od tego, czy pragniemy zostać opiekunami psa rasowego czy kundelka."
+coverImage: "/puppy.jpg"
+date: "21.05 2021r."
 ---
 
 # Skąd wziąć psa?

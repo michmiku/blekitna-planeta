@@ -1,14 +1,14 @@
 ---
-title: 'Zabawki dla kota'
-excerpt: 'Obcując przez wiele lat z kotami w każdym wieku – od urodzenia do starości – człowiek sporo się o nich uczy. Jak się nimi opiekować, co lubią, a nawet tego, jakie zabawki futrzakom kupować. A trzeba przyznać, że wybór zabawek dla kotów mamy spory (choć i tak jeszcze nie tak wielki, jak zabawek dla psów).'
-coverImage: '/kot.png'
-date: '2021-03-16T05:35:07.322Z'
-url: 'porady/nasi-pupile/kot/pies-czy-kot'
+title: "Zabawki dla kota"
+excerpt: "Obcując przez wiele lat z kotami w każdym wieku – od urodzenia do starości – człowiek sporo się o nich uczy. Jak się nimi opiekować, co lubią, a nawet tego, jakie zabawki futrzakom kupować. A trzeba przyznać, że wybór zabawek dla kotów mamy spory (choć i tak jeszcze nie tak wielki, jak zabawek dla psów)."
+coverImage: "/cat_toys.jpg"
+date: "2021-03-16"
+url: "porady/nasi-pupile/kot/pies-czy-kot"
 ogImage:
-  url: '/public/kot.png'
+  url: "/cat_toys.jpg"
 ---
 
-# Jakie zabawki kupić kotu?              
+# Jakie zabawki kupić kotu?
 
 Obcując przez wiele lat z kotami w każdym wieku – od urodzenia do starości – człowiek sporo się o nich uczy. Jak się nimi opiekować, co lubią, a nawet tego, jakie zabawki futrzakom kupować. A trzeba przyznać, że wybór zabawek dla kotów mamy spory (choć i tak jeszcze nie tak wielki, jak zabawek dla psów).
 
@@ -17,7 +17,6 @@ Z futerkiem i piórkami – takie zabawki dla kotów zawsze się sprawdzają i n
 Skoro o wspólnej zabawie kota i jego opiekuna mowa, to w tym przypadku polecałbym zakupić coś, co nosi określamy mianem wędki dla kota. Jakby kto nie wiedział, zabawki te rzeczywiście wyglądają jak wędki: kijek, sznurek i „przynęta” na końcu sznurka (piórka, futrzana kulka lub coś tam innego).
 
 Nie znam kota, który by nie lubił wędek, a jeśli jeszcze na końcu wiszą piórka... Coś wspaniałego! Ale uwaga, lepiej z taką zabaweczką futrzaka samego nie zostawiać. Istnieje bowiem ryzyko, że kociak zaplącze się w sznurek, owinie go sobie wokół szyi i udusi się.
-
 
 # Zabawki interaktywne dla kotów
 

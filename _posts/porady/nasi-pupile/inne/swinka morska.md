@@ -1,8 +1,8 @@
 ---
-title: 'Słów kilka o karmieniu Świnki morskiej'
-excerpt: 'Świnki morskie, zwane oficjalnie kawiami domowymi, należą do najpopularniejszych domowych pupili. Nie mają wygórowanych wymagań co do warunków utrzymania. Przede wszystkim powinniśmy zadbać o ich dietą, która jest kluczem do zdrowia i długiego życia. Na szczęście zapewnienie odpowiedniego pokarmu dla świnki morskiej nie stanowi wielkiego problemu, wystarczy wybrać się do sklepu zoologicznego i na najbliższy bazarek.'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "Słów kilka o karmieniu Świnki morskiej"
+excerpt: "Świnki morskie, zwane oficjalnie kawiami domowymi, należą do najpopularniejszych domowych pupili. Nie mają wygórowanych wymagań co do warunków utrzymania. Przede wszystkim powinniśmy zadbać o ich dietą, która jest kluczem do zdrowia i długiego życia. Na szczęście zapewnienie odpowiedniego pokarmu dla świnki morskiej nie stanowi wielkiego problemu, wystarczy wybrać się do sklepu zoologicznego i na najbliższy bazarek."
+coverImage: "/guinea_pig.jpg"
+date: "21.05 2021r."
 ---
 
 # Żywienie świnek morskich

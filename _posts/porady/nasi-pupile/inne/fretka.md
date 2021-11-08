@@ -2,7 +2,7 @@
 title: 'O fretce - nasz poradnik'
 excerpt: 'Fretka to wszędobylski i ruchliwy zwierzak. Czy zastanawialiście się jak wygląda jej życie, co je, czym sie bawi?
 W tym artykule postaramy się przybliżyć te aspekty, oraz odpowiedzieć na podtsawowe pytania dotyczące opieki nad nią od pierwszego dnia gdy już stanie się naszym współdomownikiem.'
-coverImage: '/akcja4.jpg'
+coverImage: '/ferret.jpg'
 date: '21.05 2021r.'
 ---
 

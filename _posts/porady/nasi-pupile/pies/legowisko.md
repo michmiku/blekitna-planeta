@@ -1,8 +1,8 @@
 ---
-title: 'Legowisko'
-excerpt: 'Nasz pupil powinien mieć swoje miejsce w mieszkaniu. Potrzebne nam będzie zatem legowisko dla psa. Biorąc pod uwagę asortyment psich łóżek, problemu z zakupem odpowiedniego raczej mieć nie będziemy.'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "Legowisko"
+excerpt: "Nasz pupil powinien mieć swoje miejsce w mieszkaniu. Potrzebne nam będzie zatem legowisko dla psa. Biorąc pod uwagę asortyment psich łóżek, problemu z zakupem odpowiedniego raczej mieć nie będziemy."
+coverImage: "/dog_bed.jpg"
+date: "21.05 2021r."
 ---
 
 # Legowiska dla psów

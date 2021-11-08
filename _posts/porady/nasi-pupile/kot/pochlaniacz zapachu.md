@@ -1,11 +1,11 @@
 ---
-title: 'Pochłaniacz zapachu i wybór kuwety'
-excerpt: 'Dobrej jakości wydajny żwirek niweluje odór kociego moczu i odchodów. Stosując jednak specjalny pochłaniacz zapachów do kuwet możemy jeszcze bardziej zwiększyć efektywność i wydajność ściółki.'
-coverImage: '/kot.png'
-date: '2021-03-16T05:35:07.322Z'
-url: 'porady/nasi-pupile/kot/pies-czy-kot'
+title: "Pochłaniacz zapachu i wybór kuwety"
+excerpt: "Dobrej jakości wydajny żwirek niweluje odór kociego moczu i odchodów. Stosując jednak specjalny pochłaniacz zapachów do kuwet możemy jeszcze bardziej zwiększyć efektywność i wydajność ściółki."
+coverImage: "/litter_box.jpg"
+date: "2021-03-16"
+url: "porady/nasi-pupile/kot/pies-czy-kot"
 ogImage:
-  url: '/public/kot.png'
+  url: "/litter_box.jpg"
 ---
 
 # Pochłaniacze zapachów

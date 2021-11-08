@@ -1,8 +1,8 @@
 ---
-title: 'Smycz'
-excerpt: 'Smycz należy do podstawowych elementów wyprawki dla psów. Potrzebna jest na spacerach, przydaje się podczas szkolenia, jest niezbędna na wystawach psów itd. Zakup smyczy dla psów wydaje się prostym zadaniem, ale wcale nie bez znaczenia jest to, jaką wybierzemy.'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "Smycz"
+excerpt: "Smycz należy do podstawowych elementów wyprawki dla psów. Potrzebna jest na spacerach, przydaje się podczas szkolenia, jest niezbędna na wystawach psów itd. Zakup smyczy dla psów wydaje się prostym zadaniem, ale wcale nie bez znaczenia jest to, jaką wybierzemy."
+coverImage: "/leash.jpg"
+date: "21.05 2021r."
 ---
 
 # Smycze dla psów

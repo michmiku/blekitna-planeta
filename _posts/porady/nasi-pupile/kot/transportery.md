@@ -1,11 +1,11 @@
 ---
-title: 'Transportujemy kota'
-excerpt: 'Niezależnie od tego, czy planujemy wyjeżdżać z naszym pupilem, warto zainwestować w transporter dla kota. Przyda się chociażby, gdy trzeba będzie iść ze zwierzakiem na okresowe badania do lekarza weterynarii.'
-coverImage: '/kot.png'
-date: '2021-03-16T05:35:07.322Z'
-url: 'porady/nasi-pupile/kot/pies-czy-kot'
+title: "Transportujemy kota"
+excerpt: "Niezależnie od tego, czy planujemy wyjeżdżać z naszym pupilem, warto zainwestować w transporter dla kota. Przyda się chociażby, gdy trzeba będzie iść ze zwierzakiem na okresowe badania do lekarza weterynarii."
+coverImage: "/cat_carrier.jpg"
+date: "2021-03-16"
+url: "porady/nasi-pupile/kot/pies-czy-kot"
 ogImage:
-  url: '/public/kot.png'
+  url: "/cat_carrier.jpg"
 ---
 
 Niezależnie od tego, czy planujemy wyjeżdżać z naszym pupilem, warto zainwestować w transporter dla kota. Przyda się chociażby, gdy trzeba będzie iść ze zwierzakiem na okresowe badania do lekarza weterynarii.

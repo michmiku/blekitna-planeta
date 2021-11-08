@@ -33,7 +33,7 @@
   }
 
   .allLinks {
-    z-index: 2;
+    z-index: 3;
     display: flex;
     grid-column: span 10;
     width: 100%;
@@ -399,6 +399,7 @@
     align-items: center;
     justify-content: center;
     font-size: 1.1rem;
+    padding: 40px 0;
     span {
       margin: 0 5% auto 5%;
     }
@@ -481,4 +482,10 @@
   left: 0px;
   background: linear-gradient(to right bottom, #aedbef 49%, #c5cae9 50%),
     linear-gradient(-50deg, #ffffff 16px, #000 0);
+}
+
+.footerInfo {
+  a {
+    color: white !important;
+  }
 }

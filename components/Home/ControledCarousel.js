@@ -4,8 +4,8 @@ import styles from "styles/Home.module.scss";
 
 const slideOneSrc = "/MZ_002.jpg";
 const slideTwoSrc = "/MZ_005.jpg";
-const slideThreeSrc = "/MZ_013.jpg";
-const slideFourSrc = "/MZ_022.jpg";
+const slideThreeSrc = "/MZ_027.jpg";
+const slideFourSrc = "/MZ_025.jpg";
 
 const ControledCarousel = () => {
   const files = [slideOneSrc, slideTwoSrc, slideThreeSrc, slideFourSrc];

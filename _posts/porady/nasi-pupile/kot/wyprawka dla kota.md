@@ -1,18 +1,16 @@
 ---
-title: 'Wyprawka dla kota'
-excerpt: 'Podejmując decyzję o powiększeniu rodziny o czworonożnego członka, musimy liczyć się z koniecznością zakupu pewnych niezbędnych dla niego rzeczy. Do sklepu zoologicznego po wyprawkę dla kota warto wybrać się zanim jeszcze zwierzak zawita do naszego domu.'
-coverImage: '/kot.png'
-date: '2021-03-16T05:35:07.322Z'
-url: 'porady/nasi-pupile/kot/pies-czy-kot'
+title: "Wyprawka dla kota"
+excerpt: "Podejmując decyzję o powiększeniu rodziny o czworonożnego członka, musimy liczyć się z koniecznością zakupu pewnych niezbędnych dla niego rzeczy. Do sklepu zoologicznego po wyprawkę dla kota warto wybrać się zanim jeszcze zwierzak zawita do naszego domu."
+coverImage: "/small_cat.jpg"
+date: "2021-03-16"
+url: "porady/nasi-pupile/kot/pies-czy-kot"
 ogImage:
-  url: '/public/kot.png'
+  url: "/small_cat.jpg"
 ---
 
 Podejmując decyzję o powiększeniu rodziny o czworonożnego członka, musimy liczyć się z koniecznością zakupu pewnych niezbędnych dla niego rzeczy. Do sklepu zoologicznego po wyprawkę dla kota warto wybrać się zanim jeszcze zwierzak zawita do naszego domu.
 
-
 # Karma i miski dla kota
-
 
 Karma dla kota bez wątpienia należy do tych składowych kociej wyprawki, które zmuszeni jesteśmy zakupić wcześniej. Początkowo najlepiej karmić go tym, co jadł do tej pory, pamiętajmy więc by zapytać (lub nawet poprosić) chodowcę od którego bierzemy czworonoga o próbkę lub choćby nazwę podawanej przez niego karmy. Pozwoli to na uniknięcie ewentualnych problemów z żołądkiem spowodowanych nagłą zmianą diety.
 
@@ -24,11 +22,9 @@ Prócz karmy potrzebne nam będą jeszcze miski. Sugerowałbym zakupić od razu
 
 trzy sztuki – jedną na karmę sucha, jedną na karmę mokrą i jedną na wodę – co jest bardzo wygodnym rozwiązaniem. Materiał z którego są wykonane jest jakby sprawą drugorzędną .
 
-
 # Kuweta i żwirek dla kota
 
-
-W następnej kolejności powinniśmy zadbać o odpowiednią kuwetę. Artykuł ten jest niezbędny, gdy zwierzak nie wychodzi z domu, ale przydać się też może w przypadku kota wychodzącego. Na rynku zoologicznym znajdziemy różne modele kuwet, które dzielimy na dwie podstawowe grupy:  kuwety otwarte i kuwety zamkniete.
+W następnej kolejności powinniśmy zadbać o odpowiednią kuwetę. Artykuł ten jest niezbędny, gdy zwierzak nie wychodzi z domu, ale przydać się też może w przypadku kota wychodzącego. Na rynku zoologicznym znajdziemy różne modele kuwet, które dzielimy na dwie podstawowe grupy: kuwety otwarte i kuwety zamkniete.
 
 Za każdym z modeli przemawiają inne cechy użytkowe, ale podobnie, jak w przypadku karmy, na początek najlepiej wybrać taką toaletę, do której zwierzak jest przyzwyczajony. A jeśli tak się złożyło, że nie nauczył się jeszcze z niej korzystać, najwłaściwszą wydaje się kuweta otwarta. W przypadku bardzo małych kociąt warto rozważyć zakup kilku sztuk, by ustawić je w paru miejscach w mieszkaniu – chodzi o to, by maluch miał toaletę zawsze „pod ręką”. Nie zapomnijmy o łopatce do wybierania nieczystości !
 
@@ -36,9 +32,7 @@ Wybór właściwego żwirku dla kota także ma znaczenie. Kryteriów jego wyboru
 
 Oczywiście, później można kota próbować przyzwyczajać do innego rodzaju kociej ściółki, jednak róbmy to stopniowo i z rozmysłem, gdyż takie próby mogą go zniechęcić do korzystania z toalety. Istotny jest tu zwłaszcza zapach nowego żwirku, który może się naszemu kotu po prostu nie spodobać.
 
-
 # Pozostałe akcesoria dla kota
-
 
 Na liście zakupów powinien się znaleźć ponadto drapak dla kota – chyba że poszarpane obicia foteli i kanap oraz ślady pazurów na innych meblach nam nie przeszkadzają. Nie liczmy na to, że uda nam się przekonać pupila, by zaprzestał ostrzenia o nie pazurów. Wybór drapaków jest również spory, a każdy rodzaj ma swoje wady i zalety. Najważniejsze, by był odpowiedniej wielkości i stabilny.
 
