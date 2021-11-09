@@ -17,6 +17,7 @@ const ContactContainer = () => {
           <InformationsPanel
             address={"ul. Myślenicka 133, 30-698 Kraków"}
             name={"GALERIA SWOSZOWICE CENTRUM"}
+            phone="12 658 50 77"
             floor={"I Piętro"}
             hours={"10:00–20:00"}
           />
@@ -27,6 +28,7 @@ const ContactContainer = () => {
           <InformationsPanel
             address={"ul. Spółdzielców 3, 30-682 Kraków"}
             name={"Osiedle Na Kozłówce"}
+            phone="12 425 52 86"
             hours={"09:00–19:00"}
           />
         </div>

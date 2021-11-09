@@ -23,7 +23,10 @@ const Footer = () => {
           </div>
           <div className={styles.footerInfo}>
             <p>
-              Telefon: <a href={`tel:126585077`}> 12 658 50 77</a>
+              Telefon Swoszowice: <a href={`tel:126585077`}> 12 658 50 77</a>
+            </p>
+            <p>
+              Telefon Spółdzielców: <a href={`tel:124255286`}> 12 425 52 86</a>
             </p>
             {/* <p>Email:</p> */}
           </div>

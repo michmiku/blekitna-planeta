@@ -1,8 +1,8 @@
 ---
-title: 'Moje pierwsze akwarium cz. 1 - wstęp'
-excerpt: 'Do założenia akwarium słodkowodnego nie wystarczą tylko dobre chęci, chociaż zapał też będzie przydatny. Istotna jest przede wszystkim wiedza jak to zrobić. Z czasem będziemy zdobywać doświadczenie, jednak pierwsze kroki warto stawiać przy pomocy na przykład naszego poradnika,w którym postaramy sie przedstawić cykl artykułów z dziedziny szeroko pojętej akwarystyki.'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "Moje pierwsze akwarium cz. 1 - wstęp"
+excerpt: "Do założenia akwarium słodkowodnego nie wystarczą tylko dobre chęci, chociaż zapał też będzie przydatny. Istotna jest przede wszystkim wiedza jak to zrobić. Z czasem będziemy zdobywać doświadczenie, jednak pierwsze kroki warto stawiać przy pomocy na przykład naszego poradnika,w którym postaramy sie przedstawić cykl artykułów z dziedziny szeroko pojętej akwarystyki."
+coverImage: "/MZ_027.jpg"
+date: "21.05 2021r."
 ---
 
 Do założenia akwarium słodkowodnego nie wystarczą tylko dobre chęci, chociaż zapał też będzie przydatny. Istotna jest przede wszystkim wiedza jak to zrobić. Z czasem będziemy zdobywać doświadczenie, jednak pierwsze kroki warto stawiać przy pomocy na przykład naszego poradnika,w którym postaramy sie przedstawić cykl artykułów z dziedziny szeroko pojętej akwarystyki.

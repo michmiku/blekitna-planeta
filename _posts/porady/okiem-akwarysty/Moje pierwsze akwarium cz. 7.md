@@ -1,12 +1,11 @@
 ---
-title: 'Moje pierwsze akwarium cz. 7 - jakie akwarium?'
-excerpt: 'Jakie akwarium wybrać? Wbrew pozorom nie jest to błahe pytanie. Jak się okazuje nie zawsze dokonujemy przemyślanego wyboru. To zaś może być przyczyną późniejszych rozczarowań.'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "Moje pierwsze akwarium cz. 7 - jakie akwarium?"
+excerpt: "Jakie akwarium wybrać? Wbrew pozorom nie jest to błahe pytanie. Jak się okazuje nie zawsze dokonujemy przemyślanego wyboru. To zaś może być przyczyną późniejszych rozczarowań."
+coverImage: "/slodko3.jpg"
+date: "21.05 2021r."
 ---
 
 # Na jakie akwarium się zdecydować
- 
 
 Większości z nas akwarium kojarzy się z rybami, ewentualnie z innymi wodnymi stworzeniami. Rośliny natomiast zazwyczaj traktujemy jako element dekoracji, potrzebny do stworzenia rybom odpowiednich warunków życia. A co jeśli to roślinność jest dla akwarysty głównym obiektem zainteresowania? Wówczas stworzyć może niezwykle atrakcyjne akwarium roślinne.
 

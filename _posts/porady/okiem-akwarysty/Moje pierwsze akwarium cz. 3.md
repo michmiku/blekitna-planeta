@@ -1,8 +1,8 @@
 ---
-title: 'Moje pierwsze akwarium cz. 3 - sprzęt techniczny'
-excerpt: 'W przypadku akwariów zakładanych przez pasjonatów wodnego świata naturalne oświetlenie nie zda egzaminu, co więcej może okazać się powodem wzrostu niechcianych glonów, dlatego najlepszym rozwiązaniem jest zastosowanie oświetlenia sztucznego. Ilość punktów świetlnych, ale także ich moc będzie zależeć oczywiście od wielkości akwarium. Na jego parametry wpływ mogą mieć również pory roku, gatunki ryb,oraz roślin które hodujemy.'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "Moje pierwsze akwarium cz. 3 - sprzęt techniczny"
+excerpt: "W przypadku akwariów zakładanych przez pasjonatów wodnego świata naturalne oświetlenie nie zda egzaminu, co więcej może okazać się powodem wzrostu niechcianych glonów, dlatego najlepszym rozwiązaniem jest zastosowanie oświetlenia sztucznego. Ilość punktów świetlnych, ale także ich moc będzie zależeć oczywiście od wielkości akwarium. Na jego parametry wpływ mogą mieć również pory roku, gatunki ryb,oraz roślin które hodujemy."
+coverImage: "/MZ_050.jpg"
+date: "21.05 2021r."
 ---
 
 # Oświetlenie
@@ -23,7 +23,7 @@ Napowietrzanie akwarium to proces mający w rezultacie zapewnić natlenienie zbi
 
 # Filtry
 
-Filtry są potrzebne, także aby napowietrzać, ale przede wszystkim by oczyszczać wodę, bowiem dobry filtr stanowi zalążek i siedlisko przyjaznych środowisku wodnemu bakterii nitryfikacyjnych, które sprzyjają eliminacji nadmiaru związków azotowych brudzących wodę na poziomie chemicznym. Taką charakterystykę posiadają głównie modele kubełkowe,czyli tzw.filtry zewnętrzne gdzie cały proces oczyszczania przebiega poza akwarium w korpusie wypełnionym kilkoma rodzajami mediów filtracyjnych (ceramika,gąbka,fizelina,węgiel aktywny).Taki filtr musimy oczywiście regularnie czyścić pamiętając jednocześnie by zbytnio nie ingerować w powstałe wewnątrz kultury bakterii,których zniszczenie spowoduje utratę biologicznej równowagi zbiornika,a co za tym idzie spowoduje np. powstawanie glonów. Model dopasowujemy  do wielkości akwarium i ilości ryb. Pamiętajmy, aby wybrać taki, który pracuje cicho, aby móc komfortowo odpoczywać w jego pobliżu. Spośród pozostałych rodzajów możemy wymienić filtry podżwirowe, wewnętrzne i kaskadowe,które w większości oparte jedynie o gąbkę (jako element czyszczący) nie są specjalnie efektywne wychwytując z wody jedynie większe zanieczyszczenia.
+Filtry są potrzebne, także aby napowietrzać, ale przede wszystkim by oczyszczać wodę, bowiem dobry filtr stanowi zalążek i siedlisko przyjaznych środowisku wodnemu bakterii nitryfikacyjnych, które sprzyjają eliminacji nadmiaru związków azotowych brudzących wodę na poziomie chemicznym. Taką charakterystykę posiadają głównie modele kubełkowe,czyli tzw.filtry zewnętrzne gdzie cały proces oczyszczania przebiega poza akwarium w korpusie wypełnionym kilkoma rodzajami mediów filtracyjnych (ceramika,gąbka,fizelina,węgiel aktywny).Taki filtr musimy oczywiście regularnie czyścić pamiętając jednocześnie by zbytnio nie ingerować w powstałe wewnątrz kultury bakterii,których zniszczenie spowoduje utratę biologicznej równowagi zbiornika,a co za tym idzie spowoduje np. powstawanie glonów. Model dopasowujemy do wielkości akwarium i ilości ryb. Pamiętajmy, aby wybrać taki, który pracuje cicho, aby móc komfortowo odpoczywać w jego pobliżu. Spośród pozostałych rodzajów możemy wymienić filtry podżwirowe, wewnętrzne i kaskadowe,które w większości oparte jedynie o gąbkę (jako element czyszczący) nie są specjalnie efektywne wychwytując z wody jedynie większe zanieczyszczenia.
 
 # Przyrządy pomocnicze
 

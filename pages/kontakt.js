@@ -5,10 +5,10 @@ const kontakt = () => {
   return (
     <div className={styles.contact}>
       <Head>
-        <title>{"Sklep Zoologiczny Błękitna Planeta Kraków - Kontakt"}</title>
+        <title>{"Sklepy zoologiczne Błękitna Planeta Kraków - Kontakt"}</title>
         <meta
           name="description"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Kontakt"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Kontakt"}
         />
         <meta
           name="robots"
@@ -18,21 +18,21 @@ const kontakt = () => {
         <meta property="og:type" conetent="website" />
         <meta
           name="og:title"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Kontakt"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Kontakt"}
         />
         <meta
           property="og:description"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Kontakt"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Kontakt"}
         />
         <meta name="og:image" content={"/MZ_002.jpg"} key="ogImage" />
         <meta name="twitter:card" content={"/MZ_002.jpg"} />
         <meta
           name="twitter:description"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Kontakt"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Kontakt"}
         />
         <meta
           name="twitter:title"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Kontakt"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Kontakt"}
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

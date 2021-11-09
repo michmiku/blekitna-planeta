@@ -1,8 +1,8 @@
 ---
-title: 'Moje pierwsze akwarium cz. 5 - wielkość'
-excerpt: 'Jakie akwarium wybrać? Wbrew pozorom nie jest to błahe pytanie. Jak się okazuje nie zawsze dokonujemy przemyślanego wyboru. To zaś może być przyczyną późniejszych rozczarowań.'
-coverImage: '/akcja4.jpg'
-date: '21.05 2021r.'
+title: "Moje pierwsze akwarium cz. 5 - wielkość"
+excerpt: "Jakie akwarium wybrać? Wbrew pozorom nie jest to błahe pytanie. Jak się okazuje nie zawsze dokonujemy przemyślanego wyboru. To zaś może być przyczyną późniejszych rozczarowań."
+coverImage: "/rybuoko3.jpg"
+date: "21.05 2021r."
 ---
 
 Jakie akwarium wybrać? Wbrew pozorom nie jest to błahe pytanie. Jak się okazuje nie zawsze dokonujemy przemyślanego wyboru. To zaś może być przyczyną późniejszych rozczarowań.

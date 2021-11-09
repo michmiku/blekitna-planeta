@@ -15,7 +15,7 @@ const Layout = ({ children }) => {
         />
         <meta
           name="description"
-          content="Sklep Zoologiczny Błękitna Planeta Kraków"
+          content="Sklepy zoologiczne Błękitna Planeta Kraków"
         />
         <meta
           name="robots"
@@ -26,11 +26,11 @@ const Layout = ({ children }) => {
         <meta name="og:title" content="Błękitna planeta" />
         <meta
           property="og:description"
-          content="Sklep Zoologiczny Błękitna Planeta Kraków"
+          content="Sklepy zoologiczne Błękitna Planeta Kraków"
         />
         <meta
           name="twitter:description"
-          content="Sklep Zoologiczny Błękitna Planeta Kraków"
+          content="Sklepy zoologiczne Błękitna Planeta Kraków"
         />
         <meta name="twitter:title" content="Błęktina planeta" />
       </Head>

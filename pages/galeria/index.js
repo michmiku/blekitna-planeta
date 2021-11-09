@@ -27,10 +27,10 @@ const Home = ({ publicIds }) => {
   return (
     <div className="content-container margin-top">
       <Head>
-        <title>{"Sklep Zoologiczny Błękitna Planeta Kraków - Galeria"}</title>
+        <title>{"Sklepy zoologiczne Błękitna Planeta Kraków - Galeria"}</title>
         <meta
           name="description"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Galeria"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Galeria"}
         />
         <meta
           name="robots"
@@ -40,21 +40,21 @@ const Home = ({ publicIds }) => {
         <meta property="og:type" conetent="website" />
         <meta
           name="og:title"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Galeria"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Galeria"}
         />
         <meta
           property="og:description"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Galeria"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Galeria"}
         />
         <meta name="og:image" content={"/MZ_002.jpg"} key="ogImage" />
         <meta name="twitter:card" content={"/MZ_002.jpg"} />
         <meta
           name="twitter:description"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Galeria"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Galeria"}
         />
         <meta
           name="twitter:title"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Galeria"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Galeria"}
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

@@ -1,6 +1,6 @@
 import styles from "styles/Contact.module.scss";
 
-const InformationsPanel = ({ address, name, floor, hours }) => {
+const InformationsPanel = ({ address, name, floor, hours, phone }) => {
   return (
     <div style={{ width: "100%" }}>
       <div className={styles.informationsPanel}>
@@ -15,6 +15,7 @@ const InformationsPanel = ({ address, name, floor, hours }) => {
         <hr />
         <p>Poniedziałek - sobota: {hours}</p>
         <p>Niedziela: nieczynne</p>
+        <a href={`tel:${phone}`}>Telefon: {phone}</a>
       </div>
     </div>
   );

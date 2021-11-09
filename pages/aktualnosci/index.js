@@ -7,11 +7,11 @@ const Home = ({ allPosts, path }) => {
     <div className="content-container margin-top">
       <Head>
         <title>
-          {"Sklep Zoologiczny Błękitna Planeta Kraków - Aktualności"}
+          {"Sklepy zoologiczne Błękitna Planeta Kraków - Aktualności"}
         </title>
         <meta
           name="description"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Aktualności"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Aktualności"}
         />
         <meta
           name="robots"
@@ -21,21 +21,21 @@ const Home = ({ allPosts, path }) => {
         <meta property="og:type" conetent="website" />
         <meta
           name="og:title"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Aktualności"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Aktualności"}
         />
         <meta
           property="og:description"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Aktualności"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Aktualności"}
         />
         <meta name="og:image" content={"/MZ_002.jpg"} key="ogImage" />
         <meta name="twitter:card" content={"/MZ_002.jpg"} />
         <meta
           name="twitter:description"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Aktualności"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Aktualności"}
         />
         <meta
           name="twitter:title"
-          content={"Sklep Zoologiczny Błękitna Planeta Kraków - Aktualności"}
+          content={"Sklepy zoologiczne Błękitna Planeta Kraków - Aktualności"}
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

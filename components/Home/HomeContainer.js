@@ -13,8 +13,8 @@ const HomeContainer = () => {
   const articles = [
     {
       imgSrc: imageOne,
-      header: "Sklep zoologiczny Błękitna Planeta",
-      content: `Nasza firma powstała w 1993 roku. Działamy na rynku już od wielu lat, dlatego mamy duże doświadczenie i niezbędną wiedzę, aby zapewniać Państwu fachowe doradztwo i najwyższej jakości produkty. Zwierzęta są naszą pasją i chcemy zagwarantować im wszystko, co najlepsze. Postanowiliśmy więc stworzyć sklep zoologiczny z szerokim asortymentem, w którym każdy bez trudu znajdzie to, co niezbędne dla pupila.`,
+      header: "Sklepy zoologiczne Błękitna Planeta",
+      content: `Nasza firma powstała w 1993 roku. Działamy na rynku już od wielu lat, dlatego mamy duże doświadczenie i niezbędną wiedzę, aby zapewniać Państwu fachowe doradztwo i najwyższej jakości produkty. Zwierzęta są naszą pasją i chcemy zagwarantować im wszystko, co najlepsze. Postanowiliśmy więc stworzyć Sklepy zoologiczne z szerokim asortymentem, w którym każdy bez trudu znajdzie to, co niezbędne dla pupila.`,
       color: `#aedbef`,
       belowImageText: (
         <div>

@@ -9,12 +9,12 @@ const Home = ({ allPosts, path }) => {
     <div className="content-container margin-top">
       <Head>
         <title>
-          {"Sklep Zoologiczny Błękitna Planeta Kraków - Akwaria słodkowodne"}
+          {"Sklepy zoologiczne Błękitna Planeta Kraków - Akwaria słodkowodne"}
         </title>
         <meta
           name="description"
           content={
-            "Sklep Zoologiczny Błękitna Planeta Kraków - Akwaria słodkowodne"
+            "Sklepy zoologiczne Błękitna Planeta Kraków - Akwaria słodkowodne"
           }
         />
         <meta
@@ -26,13 +26,13 @@ const Home = ({ allPosts, path }) => {
         <meta
           name="og:title"
           content={
-            "Sklep Zoologiczny Błękitna Planeta Kraków - Akwaria słodkowodne"
+            "Sklepy zoologiczne Błękitna Planeta Kraków - Akwaria słodkowodne"
           }
         />
         <meta
           property="og:description"
           content={
-            "Sklep Zoologiczny Błękitna Planeta Kraków - Akwaria słodkowodne"
+            "Sklepy zoologiczne Błękitna Planeta Kraków - Akwaria słodkowodne"
           }
         />
         <meta name="og:image" content={"/MZ_002.jpg"} key="ogImage" />
@@ -40,13 +40,13 @@ const Home = ({ allPosts, path }) => {
         <meta
           name="twitter:description"
           content={
-            "Sklep Zoologiczny Błękitna Planeta Kraków - Akwaria słodkowodne"
+            "Sklepy zoologiczne Błękitna Planeta Kraków - Akwaria słodkowodne"
           }
         />
         <meta
           name="twitter:title"
           content={
-            "Sklep Zoologiczny Błękitna Planeta Kraków - Akwaria słodkowodne"
+            "Sklepy zoologiczne Błękitna Planeta Kraków - Akwaria słodkowodne"
           }
         />
         <link rel="icon" href="/favicon.ico" />

@@ -13,7 +13,7 @@ const HeroImage = () => {
         </div>
         <div className={style.heroText}>
           <h1>Błękitna Planeta</h1>
-          <p>Sklep zoologiczny</p>
+          <p>Sklepy zoologiczne</p>
         </div>
       </div>
     </div>
