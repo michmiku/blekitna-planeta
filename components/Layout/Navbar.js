@@ -11,7 +11,7 @@ const Navbar = () => {
   const linksRef = useRef(null);
   const router = useRouter();
 
-  const [windowWidth, setWindowWidth] = useState()
+  const [windowWidth, setWindowWidth] = useState();
 
   const handleToggleMenu = (e) => {
     if (
@@ -23,16 +23,15 @@ const Navbar = () => {
   };
 
   useEffect(() => {
-    const handleResize = () => setWindowWidth(window.innerWidth)
-    window.addEventListener('resize', handleResize)
+    const handleResize = () => setWindowWidth(window.innerWidth);
+    window.addEventListener("resize", handleResize);
     return () => {
-      window.removeEventListener('resize', handleResize)
-    }
-  }, [])
+      window.removeEventListener("resize", handleResize);
+    };
+  }, []);
 
   useEffect(() => {
-    if (window.innerWidth >= 1024)
-      linksRef.current.style.display = "flex";
+    if (window.innerWidth >= 1024) linksRef.current.style.display = "flex";
   }, [router.pathname, windowWidth]);
 
   useEffect(() => {

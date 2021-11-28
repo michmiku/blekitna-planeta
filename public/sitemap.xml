@@ -32,7 +32,15 @@
   </url>
 
   <url>
+    <loc>https://www.blekitnaplaneta.com.pl/artykuly</loc>
+  </url>
+
+  <url>
     <loc>https://www.blekitnaplaneta.com.pl/galeria</loc>
+  </url>
+
+  <url>
+    <loc>https://www.blekitnaplaneta.com.pl/porady</loc>
   </url>
 
   <url>
@@ -81,6 +89,10 @@
     <loc
       >https://www.blekitnaplaneta.com.pl/artykuly/terraria/zolwie ladowe</loc
     >
+  </url>
+
+  <url>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile</loc>
   </url>
 
   <url>
