@@ -50,9 +50,9 @@ const Home = ({ allPosts, path }) => {
           textAlign: "center",
         }}
       >
-        <a href="porady/nasi-pupile/pies">Pies</a>
-        <a href="porady/nasi-pupile/kot">Kot</a>
-        <a href="porady/nasi-pupile/inne">Inne</a>
+        <a href="nasi-pupile/pies">Pies</a>
+        <a href="nasi-pupile/kot">Kot</a>
+        <a href="nasi-pupile/inne">Inne</a>
       </div>
     </div>
   );
