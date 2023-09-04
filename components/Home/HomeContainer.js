@@ -13,22 +13,22 @@ const HomeContainer = () => {
   const articles = [
     {
       imgSrc: imageOne,
-      header: "Sklepy zoologiczne Błękitna Planeta",
+      header: "Sklep zoologiczny Błękitna Planeta",
       content: `Nasza firma powstała w 1993 roku. Działamy na rynku już od wielu lat, dlatego mamy duże doświadczenie i niezbędną wiedzę, aby zapewniać Państwu fachowe doradztwo i najwyższej jakości produkty. Zwierzęta są naszą pasją i chcemy zagwarantować im wszystko, co najlepsze. Postanowiliśmy więc stworzyć Sklepy zoologiczne z szerokim asortymentem, w którym każdy bez trudu znajdzie to, co niezbędne dla pupila.`,
       color: `#aedbef`,
       belowImageText: (
         <div>
-          Obecnie prowadzimy dwa sklepy. Dbamy o to, aby były w nich dostępne
-          wyłącznie sprawdzone karmy i akcesoria renomowanych producentów. Są to
-          produkty doceniane przez hodowców i weterynarzy. Nasz zespół tworzą
-          osoby pełne pasji i zaangażowania, dla których dobro zwierząt zawsze
-          jest na pierwszym miejscu. Chętnie Państwu doradzimy i pomożemy w
-          wyborze odpowiednich produktów. Na naszej stronie udostępniamy wiele
-          dodatkowych, przydatnych porad, które są rzetelnym źródłem wiedzy.
-          Dotyczą one najistotniejszych kwestii, takich jak karmienie,
-          pielęgnacja, dobór właściwych zabawek i akcesoriów czy bezpieczny
-          transport. Dobrze wiemy, czego potrzebują psy, koty i inne zwierzęta,
-          m.in. gryzonie. <br />
+          Dbamy o to, aby w nim były dostępne wyłącznie sprawdzone karmy i
+          akcesoria renomowanych producentów. Są to produkty doceniane przez
+          hodowców i weterynarzy. Nasz zespół tworzą osoby pełne pasji i
+          zaangażowania, dla których dobro zwierząt zawsze jest na pierwszym
+          miejscu. Chętnie Państwu doradzimy i pomożemy w wyborze odpowiednich
+          produktów. Na naszej stronie udostępniamy wiele dodatkowych,
+          przydatnych porad, które są rzetelnym źródłem wiedzy. Dotyczą one
+          najistotniejszych kwestii, takich jak karmienie, pielęgnacja, dobór
+          właściwych zabawek i akcesoriów czy bezpieczny transport. Dobrze
+          wiemy, czego potrzebują psy, koty i inne zwierzęta, m.in. gryzonie.{" "}
+          <br />
           <br />
           Naszą dodatkową i prawdopodobnie największą pasją są akwarystyka i
           terrarystyka. W sklepie mamy odrębną salę wystawową skupiającą się
@@ -58,7 +58,14 @@ const HomeContainer = () => {
           czyli uznanego producenta roślin do akwarium.
           <br /> <br /> Ponadto jesteśmy wyłącznym dystrybutorem włoskich
           gryzaków Ciuffogatto i prężnie rozwijamy markę własną{" "}
-          <b>BESTA NUTRADO</b>.
+          <a
+            href="https://bestanutrado.pl/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <b>BESTA NUTRADO</b>
+          </a>
+          .
         </span>
       ),
       belowImageText: (

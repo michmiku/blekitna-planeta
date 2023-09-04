@@ -44,7 +44,7 @@ const Navbar = () => {
         <div className={styles.mobileMenuButton} onClick={handleToggleMenu}>
           <FontAwesomeIcon className={styles.dropdownIcon} icon={faBars} />
         </div>
-        <Link href="/">
+        <Link href="/" legacyBehavior>
           <img src="/logo.png" alt="logo" />
         </Link>
       </div>

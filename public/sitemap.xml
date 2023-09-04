@@ -9,10 +9,6 @@
   </url>
 
   <url>
-    <loc>https://www.blekitnaplaneta.com.pl/aktualnosci</loc>
-  </url>
-
-  <url>
     <loc>https://www.blekitnaplaneta.com.pl/aktualnosci/Akcja Adopcyjna</loc>
   </url>
 
@@ -32,6 +28,10 @@
   </url>
 
   <url>
+    <loc>https://www.blekitnaplaneta.com.pl/aktualnosci</loc>
+  </url>
+
+  <url>
     <loc>https://www.blekitnaplaneta.com.pl/artykuly</loc>
   </url>
 
@@ -41,10 +41,6 @@
 
   <url>
     <loc>https://www.blekitnaplaneta.com.pl/porady</loc>
-  </url>
-
-  <url>
-    <loc>https://www.blekitnaplaneta.com.pl/artykuly/akwaria-slodkowodne</loc>
   </url>
 
   <url>
@@ -60,7 +56,7 @@
   </url>
 
   <url>
-    <loc>https://www.blekitnaplaneta.com.pl/artykuly/terraria</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/artykuly/akwaria-slodkowodne</loc>
   </url>
 
   <url>
@@ -92,11 +88,11 @@
   </url>
 
   <url>
-    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/artykuly/terraria</loc>
   </url>
 
   <url>
-    <loc>https://www.blekitnaplaneta.com.pl/porady/okiem-akwarysty</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile</loc>
   </url>
 
   <url>
@@ -149,7 +145,7 @@
   </url>
 
   <url>
-    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/okiem-akwarysty</loc>
   </url>
 
   <url>
@@ -223,7 +219,7 @@
   </url>
 
   <url>
-    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/inne</loc>
   </url>
 
   <url>
@@ -312,7 +308,7 @@
   </url>
 
   <url>
-    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies</loc>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/kot</loc>
   </url>
 
   <url>
@@ -369,5 +365,9 @@
       >https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies/wyprawka dla
       szczeniaka</loc
     >
+  </url>
+
+  <url>
+    <loc>https://www.blekitnaplaneta.com.pl/porady/nasi-pupile/pies</loc>
   </url>
 </urlset>

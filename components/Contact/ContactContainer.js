@@ -22,16 +22,6 @@ const ContactContainer = () => {
             hours={"10:00–20:00"}
           />
         </div>
-        <h1 className={styles.cityHeader}>Osiedle Na Kozłówce</h1>
-        <div className={styles.contactContainer}>
-          <ContactMap first={false} />
-          <InformationsPanel
-            address={"ul. Spółdzielców 3, 30-682 Kraków"}
-            name={"Osiedle Na Kozłówce"}
-            phone="12 425 52 86"
-            hours={"09:00–19:00"}
-          />
-        </div>
       </div>
     </>
   );

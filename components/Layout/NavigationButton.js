@@ -58,7 +58,7 @@ const NavigationButton = ({
     <>
       <div className={styles.linkContainer}>
         <div className={styles.dropdown}>
-          <Link href={fullLink}>
+          <Link href={fullLink} legacyBehavior>
             <a className={styles.navBtn} onClick={handleToggleDropdown}>
               {content}
               <FontAwesomeIcon
@@ -79,7 +79,7 @@ const NavigationButton = ({
       </div>
     </>
   ) : (
-    <Link href={fullLink}>
+    <Link href={fullLink} legacyBehavior>
       <div className={styles.linkContainer}>
         <div className={styles.dropdown}>
           <a className={styles.navBtn}>{content}</a>
