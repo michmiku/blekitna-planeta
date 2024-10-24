@@ -28,7 +28,7 @@ const Footer = () => {
           </div>
           <div className={styles.socialMedia}>
             <a
-              href="https://www.facebook.com/sklepzoologicznyblekitnaplaneta/"
+              href="https://www.facebook.com/profile.php?id=61567006517538"
               target="_blank"
             >
               <FontAwesomeIcon
