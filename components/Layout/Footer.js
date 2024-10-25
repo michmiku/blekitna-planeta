@@ -38,7 +38,7 @@ const Footer = () => {
             </a>
 
             <a
-              href="https://www.instagram.com/blekitnaplaneta1/"
+              href="https://www.instagram.com/sklep.blekitnaplaneta?igsh=MWc5ajF3dzhienRsZg=="
               target="_blank"
             >
               <FontAwesomeIcon
